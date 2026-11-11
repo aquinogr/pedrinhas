@@ -1,0 +1,10 @@
+:root{--ink:#293d32;--paper:#f6f3eb;--muted:#687265;--line:#d7d7c7;--clay:#ae7655;color-scheme:light}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 system-ui,sans-serif}
+header,main{max-width:1400px;margin:auto;padding:28px 4vw}header{display:flex;justify-content:space-between;align-items:center;gap:24px;border-bottom:1px solid var(--line)}
+.brand{font:24px/1.45 Georgia,serif;text-decoration:none;color:inherit}.eyebrow{display:block;font:11px/1.7 system-ui,sans-serif;letter-spacing:.19em;text-transform:uppercase;color:#867656}.header-note{font-size:13px;color:var(--muted)}
+.intro{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:30px;align-items:end;padding:26px 0 12px}h1{font:clamp(42px,5vw,72px)/1.06 Georgia,serif;letter-spacing:-.035em;margin:10px 0 14px}h2{font:clamp(29px,3vw,42px)/1.15 Georgia,serif;margin:8px 0 20px}
+.lead{font-size:18px;color:#5c6b5e;max-width:850px}.description{margin-top:8px;margin-bottom:20px}.choose{display:flex;flex-wrap:wrap;gap:8px;padding-bottom:14px}button{font:inherit;color:inherit;border:1px solid #b8c3b3;background:transparent;padding:10px 16px;border-radius:6px;cursor:pointer}button[aria-pressed=true]{background:#2e4937;color:#fff;border-color:#2e4937}button:hover{background:#e2e9dc}button[aria-pressed=true]:hover{background:#35543f}
+.sectionhead{display:flex;justify-content:space-between;align-items:center;gap:20px}.hint{font-size:13px;color:var(--muted)}a{color:inherit;text-underline-offset:4px}button:focus-visible,a:focus-visible{outline:3px solid var(--clay);outline-offset:4px}footer{margin-top:24px;padding:25px 4vw;background:#2c4535;color:#e8ebdf;font-size:13px}
+@media(max-width:1000px){.intro{grid-template-columns:1fr;gap:8px}.choose{padding-bottom:0}}
+@media(max-width:600px){header,main{padding:20px 5vw}.brand{font-size:21px}.header-note{display:none}.intro{padding-top:12px}h1{font-size:43px}.lead{font-size:16px}.choose{gap:6px}.choose button{padding:10px 12px;font-size:14px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
