@@ -1,0 +1,84 @@
+{
+  "jardim": {
+    "doorSweeps": [],
+    "doorPairs": [],
+    "windowRatios": [
+      {
+        "room": "q1",
+        "windowArea": 2.7,
+        "reference": 2.063,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "b1",
+        "windowArea": 0.64,
+        "reference": 0.46,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "q2",
+        "windowArea": 2.7,
+        "reference": 2.063,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "q3",
+        "windowArea": 2.7,
+        "reference": 2.063,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "b3",
+        "windowArea": 0.64,
+        "reference": 0.46,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "living",
+        "windowArea": 3.9,
+        "reference": 3.47,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "master",
+        "windowArea": 3.0,
+        "reference": 2.788,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "masterbath",
+        "windowArea": 0.64,
+        "reference": 0.551,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "q5",
+        "windowArea": 3.0,
+        "reference": 2.945,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      },
+      {
+        "room": "b5",
+        "windowArea": 0.64,
+        "reference": 0.485,
+        "passes": true,
+        "note": "Área nominal; não representa área efetiva de ventilação nem enquadramento legal."
+      }
+    ],
+    "toiletFronts": [],
+    "chairClearance": [],
+    "windowDirection": [],
+    "columnConflicts": [],
+    "furnitureOverlap": [],
+    "passed": true
+  }
+}

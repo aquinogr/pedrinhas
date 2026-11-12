@@ -1,0 +1,24 @@
+{
+  "edicula": {
+    "passed": true,
+    "issues": [],
+    "warnings": [
+      "Anexo cego com afastamento de fundo nulo: estudo condicionado à zona, ao condomínio e ao licenciamento; não certificado como permitido."
+    ],
+    "soilNatural": 135.31,
+    "rooms": 32,
+    "openings": 45,
+    "scope": "Revisão geométrica: recuos do briefing, cinco quartos atendidos por banhos privativos ou reversíveis, aberturas, móveis junto às portas, percursos de 60 cm, escada, coberturas, solo natural e integridade SH3D. Não certifica legislação, estrutura ou acessibilidade."
+  },
+  "patio": {
+    "passed": true,
+    "issues": [],
+    "warnings": [
+      "Anexo cego com afastamento de fundo nulo: estudo condicionado à zona, ao condomínio e ao licenciamento; não certificado como permitido."
+    ],
+    "soilNatural": 126.84,
+    "rooms": 34,
+    "openings": 47,
+    "scope": "Revisão geométrica: recuos do briefing, cinco quartos atendidos por banhos privativos ou reversíveis, aberturas, móveis junto às portas, percursos de 60 cm, escada, coberturas, solo natural e integridade SH3D. Não certifica legislação, estrutura ou acessibilidade."
+  }
+}
