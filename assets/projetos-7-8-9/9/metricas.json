@@ -4,8 +4,8 @@
  "total": 313.7,
  "ocupacao_m2": 207.1,
  "taxa_ocupacao": 49.3,
- "solo_natural_m2": 135.1,
- "solo_natural_pct": 32.2,
+ "solo_natural_m2": 137.6,
+ "solo_natural_pct": 32.8,
  "paredes_fora_recuo": [],
  "paredes_no_recuo_fundo": [
   [
@@ -61,7 +61,7 @@
  ],
  "comodos_T": {
   "Acesso drenante (grama entre faixas)": 45.0,
-  "Piscina transversal 4,4 × 2,5 m (encostada no muro)": 11.0,
+  "Piscina 3,0 × 7,0 m com prainha": 21.0,
   "Varal (escondido)": 12.15,
   "Jardim": 7.2,
   "Garagem coberta · 3 carros": 49.5,

@@ -25,7 +25,8 @@ h2{font:600 24px Georgia,serif;margin:34px 0 10px}
 .stage{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
 .stage img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
 .meta{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:8px 12px;font-size:14px;color:var(--mut)}
-.thumbs{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:10px}
+.thumbs{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin-top:10px}
+[hidden]{display:none!important}
 .thumbs button{padding:0;border:2px solid transparent;border-radius:8px;overflow:hidden;cursor:pointer;background:none}
 .thumbs button[aria-pressed=true]{border-color:var(--acc)}
 .thumbs img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
@@ -65,7 +66,7 @@ h2{font:600 24px Georgia,serif;margin:34px 0 10px}
 <figure class="stage" style="margin:0"><a id="full" target="_blank" rel="noopener"><img id="photo" alt="" width="1536" height="1024"></a>
 <figcaption class="meta"><span id="caption"></span><span><button class="toggle" id="cmp" type="button">Ver o modelo 3D desta vista</button></span></figcaption></figure>
 <div class="thumbs" id="thumbs"></div>
-<p class="note">Fotos geradas por IA (Nano Banana Pro) a partir do render do modelo 3D exportado do Sweet Home 3D, conferidas uma a uma contra a geometria do projeto. Paisagismo, céu e entorno são ilustrativos.</p>
+<p class="note" id="photonote">Fotos geradas por IA (Nano Banana) a partir do render do modelo 3D exportado do Sweet Home 3D, conferidas uma a uma contra a geometria do projeto. Paisagismo, céu e entorno são ilustrativos.</p>
 </section>
 
 <section class="grid2">
@@ -82,6 +83,7 @@ h2{font:600 24px Georgia,serif;margin:34px 0 10px}
 <li>Auditoria geométrica no motor do Sweet Home 3D: <b>0 conflitos</b> de giro de porta/janela, móvel × móvel, móvel × parede, folgas de uso (vaso 60 cm, pia 80 cm, armário 60 cm) e janelas obstruídas.</li>
 <li>Escada em U: 18 espelhos de 17,5 cm (3,15 m), pisos de 28 cm (Blondel 63 cm), lances de 1,05 m, patamar até a parede; corrimão a 0,92 m nos dois lados e balaústres a cada 9,3 cm no vão e no lado aberto.</li>
 <li>Guarda-corpos de madeira de 1,10 m com vão &lt; 11 cm nas varandas e na borda do vão da escada.</li>
+<li>Pilares de madeira também no pavimento superior, na borda das varandas, apoiando o beiral do telhado (alinhados com os pilares do térreo).</li>
 <li>Iluminação e ventilação: todos os cômodos com janela ≥ 1/6 do piso (≥ 1/8 em banhos, lavabo e serviço).</li>
 <li>Recuos: frente 5,00 m, laterais 1,50 m; no muro só encostam o lavabo (canto do fundo) e a piscina; o gourmet encosta só no fundo. Muros de 2,40 m.</li>
 <li>Telhados em telha cerâmica 30%, com caimento para dentro do lote; laje impermeabilizada no lavabo.</li>
@@ -98,7 +100,7 @@ h2{font:600 24px Georgia,serif;margin:34px 0 10px}
 
 <section aria-labelledby="t-arq">
 <h2 id="t-arq">Arquivos</h2>
-<div class="downloads"><a class="btn" id="dl-sh3d" download>Baixar arquivo Sweet Home 3D (.sh3d)</a><a class="btn alt" id="dl-plan" target="_blank" rel="noopener">Prancha em alta resolução</a><a class="btn alt" id="dl-aud" target="_blank" rel="noopener">Relatório da auditoria</a></div>
+<div class="downloads"><a class="btn" id="dl-sh3d" download>Baixar arquivo Sweet Home 3D (.sh3d)</a><a class="btn alt" id="dl-plan" target="_blank" rel="noopener">Prancha em alta resolução</a><a class="btn alt" id="dl-aud" target="_blank" rel="noopener">Relatório da auditoria</a><a class="btn alt" id="dl-igz" download hidden>Baixar modelo IngeTrazo (.igz)</a></div>
 </section>
 </main>
 <script>
@@ -110,21 +112,26 @@ const P={
   n:[['283 m²','área total'],['220 m²','térreo coberto'],['62 m²','superior'],['35%','solo natural']],
   h:['Superior: suíte master 20,7 m² com closet, banho e varanda frontal; escritório-mezanino de 12,6 m² aberto para a escada.','Térreo: sala + jantar de 10 lugares (40 m²), 2 suítes no alpendre, cozinha aberta com ilha, serviço e varal em L escondido.','Lazer: piscina em raia 2,5 × 7 m no muro, quiosque de quatro águas na cabeceira, gourmet e lavabo de canto com ducha.']},
  '9':{t:'Casa 9 — Social integrado + suíte de hóspedes',s:'Sala aberta para jantar e cozinha integrados, voltados ao quiosque e à piscina; suíte de hóspedes independente no fundo, com entrada pelo jardim; superior com master, escritório e suíte.',
-  n:[['314 m²','área total'],['207 m²','térreo coberto'],['107 m²','superior'],['32%','solo natural']],
-  h:['Superior: suíte master + closet + banho + varanda frontal; escritório e suíte 2 com varanda de 22 m² para o lazer.','Térreo: sala 32 m², jantar e cozinha integrados de 38 m², serviço com varal escondido, suíte de hóspedes de 20,7 m² + banho.','Lazer: piscina transversal 4,4 × 2,5 m no muro diante do gourmet, quiosque sob a varanda e lavabo de canto com ducha.']}
+  n:[['314 m²','área total'],['207 m²','térreo coberto'],['107 m²','superior'],['33%','solo natural']],
+  h:['Superior: suíte master + closet + banho + varanda frontal; escritório e suíte 2 com varanda de 22 m² para o lazer.','Térreo: sala 32 m², jantar e cozinha integrados de 38 m², serviço com varal escondido, suíte de hóspedes de 20,7 m² + banho.','Lazer (v2): piscina 3,0 × 7,0 m com prainha no muro direito, entre o quiosque e o gourmet; espreguiçadeiras na cabeceira; floreira de lavanda; lavabo de canto com ducha a 2 m da piscina.','Também modelada no IngeTrazo (.igz) e renderizada no Blender Cycles com o sol real de Petrolina antes da foto por IA.'],
+  v:[['01','Conjunto visto de cima'],['02','Fachada e garagem'],['03','Fundos: lazer, gourmet e lavabo'],['04','Piscina, deck e gourmet']],
+  nota:'Fotos geradas por IA (Nano Banana 2.1 no Google Flow) a partir de renders do Blender Cycles feitos pelo IngeTrazo sobre o modelo do Sweet Home 3D, conferidas uma a uma contra a geometria. Paisagismo, céu e entorno são ilustrativos.'}
 };
 const V=[['01','Conjunto visto de cima'],['02','Fachada e garagem'],['03','Fundos: lazer, gourmet e lavabo']];
 let cur='7',view=0,model=false;
 const $=s=>document.querySelector(s),base=n=>'assets/projetos-7-8-9/'+n+'/';
-function setPhoto(i){view=i;const b=base(cur)+'fotos/'+V[i][0];const src=model?b+'-modelo3d.jpg':b+'.jpg';
+const VV=n=>P[n].v||V;
+function setPhoto(i){const V=VV(cur);if(i>=V.length)i=0;view=i;const b=base(cur)+'fotos/'+V[i][0];const src=model?b+'-modelo3d.jpg':b+'.jpg';
  $('#photo').src=src;$('#full').href=src;$('#photo').alt=P[cur].t+' — '+V[i][1];$('#caption').textContent=P[cur].t.split(' — ')[0]+' · '+V[i][1]+(model?' (modelo 3D)':'');
  $('#cmp').textContent=model?'Ver a foto ultrarrealista':'Ver o modelo 3D desta vista';
  document.querySelectorAll('#thumbs button').forEach((b,k)=>b.setAttribute('aria-pressed',String(k===i)));}
 function show(n,push){if(!P[n])n='7';cur=n;const p=P[n];$('#title').textContent=p.t;$('#subtitle').textContent=p.s;document.title=p.t.split(' — ')[0]+' · Pedrinhas';
  document.querySelectorAll('[data-n]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.n===n)));
- $('#thumbs').replaceChildren(...V.map((v,i)=>{const b=document.createElement('button');b.type='button';b.innerHTML='<img loading="lazy" alt="" src="'+base(n)+'fotos/'+v[0]+'-thumb.jpg"><span>'+v[1]+'</span>';b.onclick=()=>setPhoto(i);return b;}));
+ $('#thumbs').replaceChildren(...VV(n).map((v,i)=>{const b=document.createElement('button');b.type='button';b.innerHTML='<img loading="lazy" alt="" src="'+base(n)+'fotos/'+v[0]+'-thumb.jpg"><span>'+v[1]+'</span>';b.onclick=()=>setPhoto(i);return b;}));
  setPhoto(view);
  $('#plan').src=base(n)+'prancha.jpg';$('#planlink').href=base(n)+'prancha.jpg';$('#dl-plan').href=base(n)+'prancha.jpg';
+ $('#photonote').textContent=p.nota||'Fotos geradas por IA (Nano Banana) a partir do render do modelo 3D exportado do Sweet Home 3D, conferidas uma a uma contra a geometria do projeto. Paisagismo, céu e entorno são ilustrativos.';
+ const ig=$('#dl-igz');ig.hidden=n!=='9';ig.href=base('9')+'casa-9.igz';
  $('#dl-sh3d').href=base(n)+'casa-'+n+'.sh3d';$('#dl-sh3d').setAttribute('download','casa-'+n+'.sh3d');$('#dl-aud').href=base(n)+'auditoria.txt';
  $('#nums').innerHTML=p.n.map(x=>'<div><b>'+x[0]+'</b><small>'+x[1]+'</small></div>').join('');
  $('#highlights').innerHTML=p.h.map(x=>'<li>'+x+'</li>').join('');

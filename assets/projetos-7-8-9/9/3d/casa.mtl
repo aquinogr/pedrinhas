@@ -602,7 +602,7 @@ Ks 0.102837 0.102837 0.102837
 Ns 5.0
 Ni 1.0
 
-newmtl Handle_T_piece_399_Handles_Lights_2644
+newmtl Handle_T_piece_406_Handles_Lights_2686
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -612,7 +612,7 @@ Ni 1.45
 d 1.0
 map_Kd casa_Handle.png
 
-newmtl Body_T_piece_399_Car_2645
+newmtl Body_T_piece_406_Car_2687
 illum 2
 Ka 0.8 0.8 0.8
 Kd 0.8 0.8 0.8
@@ -620,7 +620,7 @@ Ks 0.3 0.3 0.3
 Ns 100.0
 Ni 1.45
 
-newmtl Glass_T_piece_399_Car_398_2646
+newmtl Glass_T_piece_406_Car_398_2688
 illum 9
 Ka 0.207904 0.214335 0.219526
 Kd 0.207904 0.214335 0.219526
@@ -654,7 +654,7 @@ Ns 40.0
 Ni 1.45
 map_Kd casa_Grid.jpeg
 
-newmtl WheelArch_T_piece_399_Car_532_2650
+newmtl WheelArch_T_piece_406_Car_532_2692
 illum 3
 Ka 0.01096 0.01096 0.01096
 Kd 0.01096 0.01096 0.01096
@@ -670,7 +670,7 @@ Ks 0.072464 0.072464 0.072464
 Ns 20.0
 Ni 1.45
 
-newmtl FrontLights_T_piece_399_2653
+newmtl FrontLights_T_piece_406_2695
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -679,7 +679,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_Grid.jpeg
 
-newmtl RearLights_T_piece_399_2654
+newmtl RearLights_T_piece_406_2696
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -697,7 +697,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_Grid.jpeg
 
-newmtl Tires_T_piece_399_wheels_Cylinder_2656
+newmtl Tires_T_piece_406_wheels_Cylinder_2698
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -706,7 +706,7 @@ Ns 10.0
 Ni 1.45
 map_Kd casa_Grid.jpeg
 
-newmtl Rim_T_piece_399_wheels_Cylinder_672_2657
+newmtl Rim_T_piece_406_wheels_Cylinder_672_2699
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -715,7 +715,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_Grid.jpeg
 
-newmtl FogLights_T_piece_399_2660
+newmtl FogLights_T_piece_406_2702
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -724,7 +724,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_Grid.jpeg
 
-newmtl InteriorCar_T_piece_400_InteriorCar_Interior_2661
+newmtl InteriorCar_T_piece_407_InteriorCar_Interior_2703
 illum 2
 Ka 0.012286 0.012286 0.012286
 Kd 0.012286 0.012286 0.012286
@@ -732,7 +732,7 @@ Ks 0.172566 0.172566 0.172566
 Ns 10.0
 Ni 1.45
 
-newmtl Body_T_piece_400_Car_2663
+newmtl Body_T_piece_407_Car_2705
 illum 2
 Ka 0.610496 0.309469 0.014444
 Kd 0.610496 0.309469 0.014444
@@ -748,7 +748,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.45
 
-newmtl Glass_T_piece_400_Car_502_2665
+newmtl Glass_T_piece_407_Car_502_2707
 illum 9
 Ka 0.14996 0.187821 0.219526
 Kd 0.14996 0.187821 0.219526
@@ -757,7 +757,7 @@ Ns 100.0
 Ni 1.45
 d 0.5
 
-newmtl BlackRubber_T_piece_400_Car_570_2666
+newmtl BlackRubber_T_piece_407_Car_570_2708
 illum 2
 Ka 0.012286 0.012286 0.012286
 Kd 0.012286 0.012286 0.012286
@@ -774,7 +774,7 @@ Ns 100.0
 Ni 1.45
 d 0.5
 
-newmtl WheelArch_T_piece_400_Car_660_2668
+newmtl WheelArch_T_piece_407_Car_660_2710
 illum 2
 Ka 0.022253 0.022253 0.022253
 Kd 0.022253 0.022253 0.022253
@@ -806,7 +806,7 @@ Kd 0.7102 0.702 0.6531
 Ks 0.3 0.3 0.3
 Ns 128.0
 
-newmtl LicensePlates_T_piece_400_LicensePlates_2672
+newmtl LicensePlates_T_piece_407_LicensePlates_2714
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -815,7 +815,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_AirEntrance.jpeg
 
-newmtl FrontLights_T_piece_400_2674
+newmtl FrontLights_T_piece_407_2716
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -824,7 +824,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_AirEntrance.jpeg
 
-newmtl RearLights_T_piece_400_2677
+newmtl RearLights_T_piece_407_2719
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -833,7 +833,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_AirEntrance.jpeg
 
-newmtl Tires_T_piece_400_wheels_Cylinder_2678
+newmtl Tires_T_piece_407_wheels_Cylinder_2720
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -842,7 +842,7 @@ Ns 10.0
 Ni 1.45
 map_Kd casa_AirEntrance.jpeg
 
-newmtl Rim_T_piece_400_wheels_Cylinder_672_2679
+newmtl Rim_T_piece_407_wheels_Cylinder_672_2721
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -851,7 +851,7 @@ Ns 80.0
 Ni 1.45
 map_Kd casa_AirEntrance.jpeg
 
-newmtl Lines_T_piece_400_2681
+newmtl Lines_T_piece_407_2723
 illum 1
 Ka 0.005605 0.005605 0.005605
 Kd 0.005605 0.005605 0.005605
@@ -859,7 +859,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.45
 
-newmtl Handle_T_piece_400_2682
+newmtl Handle_T_piece_407_2724
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -867,7 +867,7 @@ Ks 0.009174 0.009174 0.009174
 Ns 80.0
 Ni 1.45
 d 1.0
-map_Kd casa_Handle_T_piece_400_2682.png
+map_Kd casa_Handle_T_piece_407_2724.png
 
 newmtl Wenge_
 illum 2
@@ -878,7 +878,7 @@ Ns 92.15686
 Ni 1.0
 map_Kd casa_Wenge_.jpeg
 
-newmtl T_piece_401_2684
+newmtl T_piece_408_2726
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.0 0.0 0.0
@@ -903,14 +903,14 @@ Ns 92.15686
 Ni 1.0
 map_Kd casa_Wenge_.jpeg
 
-newmtl T_piece_402_carpet_2690
+newmtl T_piece_409_carpet_2732
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
-map_Kd casa_T_piece_402_carpet_2690.jpeg
+map_Kd casa_T_piece_409_carpet_2732.jpeg
 
 newmtl gray
 illum 2
@@ -958,7 +958,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_404_2702
+newmtl T_piece_411_2744
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.972549 0.921569 0.784314
@@ -966,7 +966,7 @@ Ks 0.08 0.08 0.08
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_404_2703
+newmtl T_piece_411_2745
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.972549 0.921569 0.784314
@@ -974,7 +974,7 @@ Ks 0.089102 0.089102 0.089102
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_404_2706
+newmtl T_piece_411_2748
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.972549 0.921569 0.784314
@@ -990,7 +990,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_404_2713
+newmtl T_piece_411_2755
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.972549 0.921569 0.784314
@@ -1158,7 +1158,7 @@ Kd 0.224 0.224 0.224
 Ks 0.9344629 0.9344629 0.9344629
 Ns 50.0
 
-newmtl metal_T_piece_421_2802
+newmtl metal_T_piece_428_2844
 illum 2
 Ka 0.6 0.6 0.61
 Kd 0.6 0.6 0.61
@@ -1182,7 +1182,7 @@ Ks 0.0 0.0 0.0
 Ns 2.0
 Ni 1.0
 
-newmtl black_T_piece_421_2805
+newmtl black_T_piece_428_2847
 illum 2
 Ka 0.01 0.01 0.01
 Kd 0.01 0.01 0.01
@@ -1276,7 +1276,7 @@ Ks 0.783 0.783 0.783
 Ns 25.0
 Ni 1.5
 
-newmtl metal_T_piece_427_2904
+newmtl metal_T_piece_434_2946
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.26676 0.26676 0.26676
@@ -1284,7 +1284,7 @@ Ks 0.659574 0.659574 0.659574
 Ns 128.0
 Ni 1.0
 
-newmtl T_piece_427_2905
+newmtl T_piece_434_2947
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.393113 0.393113 0.393113
@@ -1292,7 +1292,7 @@ Ks 0.569149 0.569149 0.569149
 Ns 128.0
 Ni 1.0
 
-newmtl T_piece_427_2906
+newmtl T_piece_434_2948
 illum 1
 Ka 0.0 0.0 0.0
 Kd 0.8 0.8 0.8
@@ -1300,7 +1300,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_427_2907
+newmtl T_piece_434_2949
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.538223 0.0 0.007432
@@ -1308,14 +1308,14 @@ Ks 0.06383 0.06383 0.06383
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_427_2908
+newmtl T_piece_434_2950
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.01 0.01 0.01
 Ns 1.0
 Ni 1.0
-map_Kd casa_T_piece_427_2908.jpeg
+map_Kd casa_T_piece_434_2950.jpeg
 
 newmtl glass
 illum 2
@@ -1324,9 +1324,9 @@ Kd 1.0 1.0 1.0
 Ks 0.010638 0.010638 0.010638
 Ns 1.0
 Ni 1.0
-map_Kd casa_T_piece_427_2908.jpeg
+map_Kd casa_T_piece_434_2950.jpeg
 
-newmtl T_piece_427_2922
+newmtl T_piece_434_2964
 illum 2
 Ka 0.0 0.0 0.0
 Kd 1.0 1.0 1.0
@@ -1334,7 +1334,7 @@ Ks 0.01 0.01 0.01
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_427_2924
+newmtl T_piece_434_2966
 illum 1
 Ka 0.0 0.0 0.0
 Kd 0.698191 0.698191 0.698191
@@ -1342,7 +1342,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
 
-newmtl T_piece_427_Cube_27_2927
+newmtl T_piece_434_Cube_27_2969
 illum 1
 Ka 0.0 0.0 0.0
 Kd 0.054968 0.054968 0.054968
@@ -1422,7 +1422,7 @@ Ks 0.2 0.2 0.2
 Ns 20.0
 Ni 1.45
 
-newmtl metal_T_piece_430_2947
+newmtl metal_T_piece_437_2989
 illum 3
 Ka 1.0 1.0 1.0
 Kd 0.559592 0.559592 0.559592
@@ -1600,14 +1600,14 @@ Ks 0.998385 0.998385 0.998385
 Ns 128.0
 Ni 1.0
 
-newmtl wood_T_piece_450_Box_5__5_33_33_3102
+newmtl wood_T_piece_457_Box_5__5_33_33_3144
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
-map_Kd casa_wood_T_piece_450_Box_5__5_33_33_3102.jpeg
+map_Kd casa_wood_T_piece_457_Box_5__5_33_33_3144.jpeg
 
 newmtl tela
 illum 1
@@ -1625,14 +1625,14 @@ Ks 0.743435 0.743435 0.743435
 Ns 50.980392
 Ni 1.3
 
-newmtl metal_T_piece_451_3_3_3_3_3115
+newmtl metal_T_piece_458_3_3_3_3_3157
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 1.139017 1.139017 1.139017
 Ns 128.0
 Ni 1.3
-map_Kd casa_metal_T_piece_451_3_3_3_3_3115.jpeg
+map_Kd casa_metal_T_piece_458_3_3_3_3_3157.jpeg
 
 newmtl plastic
 illum 2
@@ -1658,26 +1658,32 @@ Ks 1.47374 1.47374 1.47374
 Ns 64.70588
 Ni 1.0
 
-newmtl colour2
-illum 1
+newmtl Stem
+illum 2
 Ka 0.2 0.2 0.2
-Kd 0.43529412 0.54901963 0.3254902
-Ks 0.0 0.0 0.0
-Ns 1.0
+Kd 1.0 1.0 1.0
+Ks 0.09292 0.09292 0.09292
+Ns 5.0
+Ni 1.45
+map_Kd casa_Stem.jpeg
 
-newmtl pole
-illum 1
+newmtl Flower
+illum 2
 Ka 0.2 0.2 0.2
-Kd 0.972549 1.0 1.0
-Ks 0.0 0.0 0.0
-Ns 1.0
+Kd 1.0 1.0 1.0
+Ks 0.039823 0.039823 0.039823
+Ns 5.0
+Ni 1.45
+map_Kd casa_Flower.jpeg
 
-newmtl colour1
-illum 1
+newmtl Chalice
+illum 2
 Ka 0.2 0.2 0.2
-Kd 0.972549 1.0 1.0
-Ks 0.0 0.0 0.0
-Ns 1.0
+Kd 1.0 1.0 1.0
+Ks 0.039823 0.039823 0.039823
+Ns 3.0
+Ni 1.45
+map_Kd casa_Stem.jpeg
 
 newmtl trunk
 illum 2
@@ -1724,16 +1730,16 @@ Kd 0.52 0.45 0.25
 Ks 0.1 0.1 0.1
 Ns 4.0
 
-newmtl trunk_T_piece_457_3163
+newmtl trunk_T_piece_466_4039
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.069106 0.069106 0.069106
 Ns 13.72549
 Ni 1.0
-map_Kd casa_trunk_T_piece_457_3163.jpeg
+map_Kd casa_trunk_T_piece_466_4039.jpeg
 
-newmtl leaves_T_piece_457_3165
+newmtl leaves_T_piece_466_4041
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -1741,36 +1747,9 @@ Ks 0.247967 0.247967 0.247967
 Ns 37.2549
 Ni 1.0
 d 1.0
-map_Kd casa_leaves_T_piece_457_3165.png
+map_Kd casa_leaves_T_piece_466_4041.png
 
-newmtl Stem
-illum 2
-Ka 0.2 0.2 0.2
-Kd 1.0 1.0 1.0
-Ks 0.09292 0.09292 0.09292
-Ns 5.0
-Ni 1.45
-map_Kd casa_Stem.jpeg
-
-newmtl Flower
-illum 2
-Ka 0.2 0.2 0.2
-Kd 1.0 1.0 1.0
-Ks 0.039823 0.039823 0.039823
-Ns 5.0
-Ni 1.45
-map_Kd casa_Flower.jpeg
-
-newmtl Chalice
-illum 2
-Ka 0.2 0.2 0.2
-Kd 1.0 1.0 1.0
-Ks 0.039823 0.039823 0.039823
-Ns 3.0
-Ni 1.45
-map_Kd casa_Stem.jpeg
-
-newmtl T_piece_459_3584
+newmtl T_piece_468_4460
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -1778,9 +1757,9 @@ Ks 0.221649 0.221649 0.221649
 Ns 92.15686
 Ni 1.0
 d 1.0
-map_Kd casa_T_piece_459_3584.png
+map_Kd casa_T_piece_468_4460.png
 
-newmtl metal_T_piece_459_Cylinder_3586
+newmtl metal_T_piece_468_Cylinder_4462
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.548766 0.548766 0.548766
@@ -1788,7 +1767,7 @@ Ks 0.5 0.5 0.5
 Ns 96.07843
 Ni 1.0
 
-newmtl T_piece_459_3588
+newmtl T_piece_468_4464
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.147027 0.208637 0.162029
@@ -1838,14 +1817,14 @@ Ks 1.0 1.0 1.0
 Ns 100.0
 Ni 1.0
 
-newmtl S_piece_471_3722
+newmtl S_piece_480_4598
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.5 0.5 0.5
 Ns 96.07843
 Ni 1.0
-map_Kd casa_S_piece_471_3722.jpeg
+map_Kd casa_S_piece_480_4598.jpeg
 
 newmtl grey_metal
 illum 2
@@ -1885,13 +1864,13 @@ Kd 0.0 0.0 0.0
 Ks 1.0 1.0 1.0
 Ns 128.0
 
-newmtl wood_S_piece_473_rack_3734
+newmtl wood_S_piece_482_rack_4610
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.0 0.0 0.0
 Ns 1.0
-map_Kd casa_wood_S_piece_473_rack_3734.jpeg
+map_Kd casa_wood_S_piece_482_rack_4610.jpeg
 
 newmtl structure
 illum 2
@@ -1909,7 +1888,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.0
 
-newmtl couch_S_piece_474_3738
+newmtl couch_S_piece_483_4614
 illum 2
 Ka 0.0 0.0 0.0
 Kd 0.624648 0.707934 0.572594
@@ -1917,7 +1896,7 @@ Ks 0.074324 0.074324 0.074324
 Ns 96.07843
 Ni 1.0
 
-newmtl sheet_S_piece_474_3739
+newmtl sheet_S_piece_483_4615
 illum 1
 Ka 0.0 0.0 0.0
 Kd 0.797628 0.8 0.716228
@@ -1958,7 +1937,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1.45
 
-newmtl rattan_S_piece_480_3818
+newmtl rattan_S_piece_489_4694
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -1984,14 +1963,14 @@ Ks 0.948819 0.948819 0.948819
 Ns 110.0
 Ni 1.45
 
-newmtl wood_S_piece_481_wood_Circle_3822
+newmtl wood_S_piece_490_wood_Circle_4698
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.051181 0.051181 0.051181
 Ns 20.0
 Ni 1.45
-map_Kd casa_wood_S_piece_481_wood_Circle_3822.jpeg
+map_Kd casa_wood_S_piece_490_wood_Circle_4698.jpeg
 
 newmtl ropes
 illum 2
@@ -2009,14 +1988,14 @@ Ks 0.948819 0.948819 0.948819
 Ns 110.0
 Ni 1.45
 
-newmtl S_piece_484_3843
+newmtl S_piece_493_4719
 illum 2
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
 Ks 0.353529 0.353529 0.353529
 Ns 128.0
 Ni 1.0
-map_Kd casa_S_piece_484_3843.jpeg
+map_Kd casa_S_piece_493_4719.jpeg
 
 newmtl maceta
 illum 2
@@ -2063,7 +2042,7 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 d 0.5
 
-newmtl T_room_0_4203
+newmtl T_room_0_5079
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2071,9 +2050,9 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_0_4203.jpeg
+map_Kd casa_T_room_0_5079.jpeg
 
-newmtl T_room_1_4204
+newmtl T_room_1_5080
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2081,9 +2060,9 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_1_4204.jpeg
+map_Kd casa_T_room_1_5080.jpeg
 
-newmtl T_room_3_4206
+newmtl T_room_3_5082
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2091,9 +2070,9 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_3_4206.jpeg
+map_Kd casa_T_room_3_5082.jpeg
 
-newmtl T_room_9_4212
+newmtl T_room_9_5088
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2101,9 +2080,9 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_9_4212.jpeg
+map_Kd casa_T_room_9_5088.jpeg
 
-newmtl T_room_11_4214
+newmtl T_room_11_5090
 illum 1
 Ka 0.30980393 0.7019608 0.78431374
 Kd 0.30980393 0.7019608 0.78431374
@@ -2112,17 +2091,16 @@ Ns 1.0
 Ni 1
 d 1.0
 
-newmtl T_room_18_4221
+newmtl T_room_12_5091
 illum 1
-Ka 0.2 0.2 0.2
-Kd 1.0 1.0 1.0
+Ka 0.56078434 0.8392157 0.87058824
+Kd 0.56078434 0.8392157 0.87058824
 Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_18_4221.jpeg
 
-newmtl T_room_19_4222
+newmtl T_room_20_5099
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2130,9 +2108,9 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_19_4222.jpeg
+map_Kd casa_T_room_20_5099.jpeg
 
-newmtl T_room_22_4225
+newmtl T_room_21_5100
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2140,9 +2118,9 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_22_4225.jpeg
+map_Kd casa_T_room_21_5100.jpeg
 
-newmtl T_room_24_4227
+newmtl T_room_24_5103
 illum 1
 Ka 0.2 0.2 0.2
 Kd 1.0 1.0 1.0
@@ -2150,4 +2128,14 @@ Ks 0.0 0.0 0.0
 Ns 1.0
 Ni 1
 d 1.0
-map_Kd casa_T_room_24_4227.jpeg
+map_Kd casa_T_room_24_5103.jpeg
+
+newmtl T_room_26_5105
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_26_5105.jpeg
