@@ -1,0 +1,2153 @@
+# Casa em U - exportado do Sweet Home 3D 7.5
+
+newmtl T_wall_0_1
+illum 1
+Ka 0.8509804 0.78431374 0.6666667
+Kd 0.8509804 0.78431374 0.6666667
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+
+newmtl T_wall_3_19
+illum 1
+Ka 0.94509804 0.90588236 0.827451
+Kd 0.94509804 0.90588236 0.827451
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+
+newmtl telha
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.66 0.34 0.2
+Ks 0.05 0.05 0.05
+Ns 8.0
+
+newmtl forro
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.55 0.4 0.27
+Ks 0.02 0.02 0.02
+Ns 4.0
+
+newmtl parede
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.95 0.91 0.83
+Ks 0.02 0.02 0.02
+Ns 4.0
+
+newmtl bottom
+illum 2
+Ka 0.47843137 0.3372549 0.20392157
+Kd 0.47843137 0.3372549 0.20392157
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top
+illum 2
+Ka 0.47843137 0.3372549 0.20392157
+Kd 0.47843137 0.3372549 0.20392157
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left
+illum 2
+Ka 0.47843137 0.3372549 0.20392157
+Kd 0.47843137 0.3372549 0.20392157
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right
+illum 2
+Ka 0.47843137 0.3372549 0.20392157
+Kd 0.47843137 0.3372549 0.20392157
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back
+illum 2
+Ka 0.47843137 0.3372549 0.20392157
+Kd 0.47843137 0.3372549 0.20392157
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front
+illum 2
+Ka 0.47843137 0.3372549 0.20392157
+Kd 0.47843137 0.3372549 0.20392157
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_T_piece_10_bottom_282
+illum 2
+Ka 0.6039216 0.6039216 0.6039216
+Kd 0.6039216 0.6039216 0.6039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_T_piece_10_top_283
+illum 2
+Ka 0.6039216 0.6039216 0.6039216
+Kd 0.6039216 0.6039216 0.6039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_T_piece_10_left_284
+illum 2
+Ka 0.6039216 0.6039216 0.6039216
+Kd 0.6039216 0.6039216 0.6039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_T_piece_10_right_285
+illum 2
+Ka 0.6039216 0.6039216 0.6039216
+Kd 0.6039216 0.6039216 0.6039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_T_piece_10_back_286
+illum 2
+Ka 0.6039216 0.6039216 0.6039216
+Kd 0.6039216 0.6039216 0.6039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_T_piece_10_front_287
+illum 2
+Ka 0.6039216 0.6039216 0.6039216
+Kd 0.6039216 0.6039216 0.6039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_T_piece_12_bottom_294
+illum 2
+Ka 0.8666667 0.8666667 0.8666667
+Kd 0.8666667 0.8666667 0.8666667
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_T_piece_12_top_295
+illum 2
+Ka 0.8666667 0.8666667 0.8666667
+Kd 0.8666667 0.8666667 0.8666667
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_T_piece_12_left_296
+illum 2
+Ka 0.8666667 0.8666667 0.8666667
+Kd 0.8666667 0.8666667 0.8666667
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_T_piece_12_right_297
+illum 2
+Ka 0.8666667 0.8666667 0.8666667
+Kd 0.8666667 0.8666667 0.8666667
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_T_piece_12_back_298
+illum 2
+Ka 0.8666667 0.8666667 0.8666667
+Kd 0.8666667 0.8666667 0.8666667
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_T_piece_12_front_299
+illum 2
+Ka 0.8666667 0.8666667 0.8666667
+Kd 0.8666667 0.8666667 0.8666667
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_T_piece_13_bottom_300
+illum 2
+Ka 0.7254902 0.56078434 0.3882353
+Kd 0.7254902 0.56078434 0.3882353
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_T_piece_13_top_301
+illum 2
+Ka 0.7254902 0.56078434 0.3882353
+Kd 0.7254902 0.56078434 0.3882353
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_T_piece_13_left_302
+illum 2
+Ka 0.7254902 0.56078434 0.3882353
+Kd 0.7254902 0.56078434 0.3882353
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_T_piece_13_right_303
+illum 2
+Ka 0.7254902 0.56078434 0.3882353
+Kd 0.7254902 0.56078434 0.3882353
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_T_piece_13_back_304
+illum 2
+Ka 0.7254902 0.56078434 0.3882353
+Kd 0.7254902 0.56078434 0.3882353
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_T_piece_13_front_305
+illum 2
+Ka 0.7254902 0.56078434 0.3882353
+Kd 0.7254902 0.56078434 0.3882353
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_T_piece_30_bottom_402
+illum 2
+Ka 0.41960785 0.2901961 0.18039216
+Kd 0.41960785 0.2901961 0.18039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_T_piece_30_top_403
+illum 2
+Ka 0.41960785 0.2901961 0.18039216
+Kd 0.41960785 0.2901961 0.18039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_T_piece_30_left_404
+illum 2
+Ka 0.41960785 0.2901961 0.18039216
+Kd 0.41960785 0.2901961 0.18039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_T_piece_30_right_405
+illum 2
+Ka 0.41960785 0.2901961 0.18039216
+Kd 0.41960785 0.2901961 0.18039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_T_piece_30_back_406
+illum 2
+Ka 0.41960785 0.2901961 0.18039216
+Kd 0.41960785 0.2901961 0.18039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_T_piece_30_front_407
+illum 2
+Ka 0.41960785 0.2901961 0.18039216
+Kd 0.41960785 0.2901961 0.18039216
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_R_piece_141_roof_bottom_1068
+illum 2
+Ka 0.84705883 0.8117647 0.7529412
+Kd 0.84705883 0.8117647 0.7529412
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_R_piece_141_roof_top_1069
+illum 2
+Ka 0.84705883 0.8117647 0.7529412
+Kd 0.84705883 0.8117647 0.7529412
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_R_piece_141_roof_left_1070
+illum 2
+Ka 0.84705883 0.8117647 0.7529412
+Kd 0.84705883 0.8117647 0.7529412
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_R_piece_141_roof_right_1071
+illum 2
+Ka 0.84705883 0.8117647 0.7529412
+Kd 0.84705883 0.8117647 0.7529412
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_R_piece_141_roof_back_1072
+illum 2
+Ka 0.84705883 0.8117647 0.7529412
+Kd 0.84705883 0.8117647 0.7529412
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_R_piece_141_roof_front_1073
+illum 2
+Ka 0.84705883 0.8117647 0.7529412
+Kd 0.84705883 0.8117647 0.7529412
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_T_piece_142_bottom_1074
+illum 2
+Ka 0.65882355 0.7137255 0.7176471
+Kd 0.65882355 0.7137255 0.7176471
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_T_piece_142_top_1075
+illum 2
+Ka 0.65882355 0.7137255 0.7176471
+Kd 0.65882355 0.7137255 0.7176471
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_T_piece_142_left_1076
+illum 2
+Ka 0.65882355 0.7137255 0.7176471
+Kd 0.65882355 0.7137255 0.7176471
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_T_piece_142_right_1077
+illum 2
+Ka 0.65882355 0.7137255 0.7176471
+Kd 0.65882355 0.7137255 0.7176471
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_T_piece_142_back_1078
+illum 2
+Ka 0.65882355 0.7137255 0.7176471
+Kd 0.65882355 0.7137255 0.7176471
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_T_piece_142_front_1079
+illum 2
+Ka 0.65882355 0.7137255 0.7176471
+Kd 0.65882355 0.7137255 0.7176471
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl bottom_T_piece_143_bottom_1080
+illum 2
+Ka 0.7490196 0.78039217 0.77254903
+Kd 0.7490196 0.78039217 0.77254903
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl top_T_piece_143_top_1081
+illum 2
+Ka 0.7490196 0.78039217 0.77254903
+Kd 0.7490196 0.78039217 0.77254903
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl left_T_piece_143_left_1082
+illum 2
+Ka 0.7490196 0.78039217 0.77254903
+Kd 0.7490196 0.78039217 0.77254903
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl right_T_piece_143_right_1083
+illum 2
+Ka 0.7490196 0.78039217 0.77254903
+Kd 0.7490196 0.78039217 0.77254903
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl back_T_piece_143_back_1084
+illum 2
+Ka 0.7490196 0.78039217 0.77254903
+Kd 0.7490196 0.78039217 0.77254903
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl front_T_piece_143_front_1085
+illum 2
+Ka 0.7490196 0.78039217 0.77254903
+Kd 0.7490196 0.78039217 0.77254903
+Ks 0.46875 0.46875 0.46875
+Ns 60.0
+
+newmtl Body
+illum 3
+Ka 0.371238 0.40724 0.439657
+Kd 0.371238 0.40724 0.439657
+Ks 0.148285 0.148285 0.148285
+Ns 80.0
+Ni 1.45
+
+newmtl RearviewBase
+illum 2
+Ka 0.025099 0.025099 0.025099
+Kd 0.025099 0.025099 0.025099
+Ks 0.056452 0.056452 0.056452
+Ns 80.0
+Ni 1.0
+
+newmtl FrontLights
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 80.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl Underside
+illum 2
+Ka 0.010022 0.010022 0.010022
+Kd 0.010022 0.010022 0.010022
+Ks 0.043478 0.043478 0.043478
+Ns 10.0
+Ni 1.45
+
+newmtl AirIntake
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl Glass
+illum 9
+Ka 0.165132 0.194618 0.219526
+Kd 0.165132 0.194618 0.219526
+Ks 0.5 0.5 0.5
+Ns 100.0
+Ni 1.45
+d 0.5
+
+newmtl AirOut
+illum 2
+Ka 0.022084 0.022084 0.022084
+Kd 0.022084 0.022084 0.022084
+Ks 0.013761 0.013761 0.013761
+Ns 80.0
+Ni 1.45
+
+newmtl BlackRubber
+illum 2
+Ka 0.020791 0.020791 0.020791
+Kd 0.020791 0.020791 0.020791
+Ks 0.034247 0.034247 0.034247
+Ns 1.0
+Ni 1.0
+
+newmtl FrontGlass
+illum 9
+Ka 0.165132 0.194618 0.219526
+Kd 0.165132 0.194618 0.219526
+Ks 0.5 0.5 0.5
+Ns 100.0
+Ni 1.45
+d 0.5
+
+newmtl RearLights
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.027523 0.027523 0.027523
+Ns 80.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl WheelArch
+illum 2
+Ka 0.01096 0.01096 0.01096
+Kd 0.01096 0.01096 0.01096
+Ks 0.05 0.05 0.05
+Ns 2.0
+Ni 1.45
+
+newmtl Tires
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 10.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl Rim
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 80.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl BackWheels
+illum 1
+Ka 0.010272 0.010272 0.010272
+Kd 0.010272 0.010272 0.010272
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl Rearview
+illum 2
+Ka 0.025099 0.025099 0.025099
+Kd 0.025099 0.025099 0.025099
+Ks 0.209677 0.209677 0.209677
+Ns 80.0
+Ni 1.0
+
+newmtl Mirror
+illum 2
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 1.0 1.0 1.0
+Ns 120.0
+Ni 1.0
+
+newmtl LicensePlate
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.036697 0.036697 0.036697
+Ns 20.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl InteriorCar
+illum 1
+Ka 0.503962 0.472588 0.444197
+Kd 0.503962 0.472588 0.444197
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl BlackInteriorCar
+illum 2
+Ka 0.012981 0.012981 0.012981
+Kd 0.012981 0.012981 0.012981
+Ks 0.077982 0.077982 0.077982
+Ns 5.0
+Ni 1.45
+
+newmtl Seating
+illum 2
+Ka 0.032441 0.029308 0.03164
+Kd 0.032441 0.029308 0.03164
+Ks 0.013699 0.013699 0.013699
+Ns 1.0
+Ni 1.0
+
+newmtl BackSeating
+illum 2
+Ka 0.032441 0.029308 0.03164
+Kd 0.032441 0.029308 0.03164
+Ks 0.013699 0.013699 0.013699
+Ns 5.0
+Ni 1.0
+
+newmtl SteeringWheel
+illum 2
+Ka 0.038204 0.038204 0.038204
+Kd 0.038204 0.038204 0.038204
+Ks 0.020548 0.020548 0.020548
+Ns 5.0
+Ni 1.0
+
+newmtl Lines
+illum 1
+Ka 0.011134 0.011134 0.011134
+Kd 0.011134 0.011134 0.011134
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl Handle
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.009174 0.009174 0.009174
+Ns 80.0
+Ni 1.45
+d 1.0
+map_Kd casa_Handle.png
+
+newmtl FogLights
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.055046 0.055046 0.055046
+Ns 80.0
+Ni 1.45
+map_Kd casa_FrontLights.jpeg
+
+newmtl Doorlines
+illum 1
+Ka 0.035216 0.035216 0.035216
+Kd 0.035216 0.035216 0.035216
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl Interior
+illum 2
+Ka 0.020378 0.020378 0.020378
+Kd 0.020378 0.020378 0.020378
+Ks 0.102837 0.102837 0.102837
+Ns 5.0
+Ni 1.0
+
+newmtl Handle_T_piece_399_Handles_Lights_2644
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.3 0.3 0.3
+Ns 100.0
+Ni 1.45
+d 1.0
+map_Kd casa_Handle.png
+
+newmtl Body_T_piece_399_Car_2645
+illum 2
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.3 0.3 0.3
+Ns 100.0
+Ni 1.45
+
+newmtl Glass_T_piece_399_Car_398_2646
+illum 9
+Ka 0.207904 0.214335 0.219526
+Kd 0.207904 0.214335 0.219526
+Ks 0.5 0.5 0.5
+Ns 100.0
+Ni 1.45
+d 0.5
+
+newmtl BlackPlastics
+illum 2
+Ka 0.00637 0.00637 0.00637
+Kd 0.00637 0.00637 0.00637
+Ks 0.446746 0.446746 0.446746
+Ns 5.0
+Ni 1.0
+
+newmtl Roof
+illum 1
+Ka 0.021978 0.021978 0.021978
+Kd 0.021978 0.021978 0.021978
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl Grid
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.043478 0.043478 0.043478
+Ns 40.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl WheelArch_T_piece_399_Car_532_2650
+illum 3
+Ka 0.01096 0.01096 0.01096
+Kd 0.01096 0.01096 0.01096
+Ks 0.148285 0.148285 0.148285
+Ns 2.0
+Ni 1.45
+
+newmtl LowBody
+illum 2
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.072464 0.072464 0.072464
+Ns 20.0
+Ni 1.45
+
+newmtl FrontLights_T_piece_399_2653
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 80.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl RearLights_T_piece_399_2654
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.065217 0.065217 0.065217
+Ns 80.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl LicensePlates
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.065217 0.065217 0.065217
+Ns 80.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl Tires_T_piece_399_wheels_Cylinder_2656
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 10.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl Rim_T_piece_399_wheels_Cylinder_672_2657
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 80.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl FogLights_T_piece_399_2660
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.055046 0.055046 0.055046
+Ns 80.0
+Ni 1.45
+map_Kd casa_Grid.jpeg
+
+newmtl InteriorCar_T_piece_400_InteriorCar_Interior_2661
+illum 2
+Ka 0.012286 0.012286 0.012286
+Kd 0.012286 0.012286 0.012286
+Ks 0.172566 0.172566 0.172566
+Ns 10.0
+Ni 1.45
+
+newmtl Body_T_piece_400_Car_2663
+illum 2
+Ka 0.610496 0.309469 0.014444
+Kd 0.610496 0.309469 0.014444
+Ks 0.048673 0.048673 0.048673
+Ns 80.0
+Ni 1.45
+
+newmtl RoofLow
+illum 1
+Ka 0.007628 0.007628 0.007628
+Kd 0.007628 0.007628 0.007628
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl Glass_T_piece_400_Car_502_2665
+illum 9
+Ka 0.14996 0.187821 0.219526
+Kd 0.14996 0.187821 0.219526
+Ks 0.5 0.5 0.5
+Ns 100.0
+Ni 1.45
+d 0.5
+
+newmtl BlackRubber_T_piece_400_Car_570_2666
+illum 2
+Ka 0.012286 0.012286 0.012286
+Kd 0.012286 0.012286 0.012286
+Ks 0.172566 0.172566 0.172566
+Ns 5.0
+Ni 1.45
+
+newmtl DarkGlass
+illum 9
+Ka 0.006512 0.006512 0.006512
+Kd 0.006512 0.006512 0.006512
+Ks 0.5 0.5 0.5
+Ns 100.0
+Ni 1.45
+d 0.5
+
+newmtl WheelArch_T_piece_400_Car_660_2668
+illum 2
+Ka 0.022253 0.022253 0.022253
+Kd 0.022253 0.022253 0.022253
+Ks 0.066372 0.066372 0.066372
+Ns 2.0
+Ni 1.45
+
+newmtl Lowbody
+illum 2
+Ka 0.053128 0.053128 0.053128
+Kd 0.053128 0.053128 0.053128
+Ks 0.075221 0.075221 0.075221
+Ns 10.0
+Ni 1.45
+
+newmtl AirEntrance
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.146018 0.146018 0.146018
+Ns 80.0
+Ni 1.45
+map_Kd casa_AirEntrance.jpeg
+
+newmtl default
+illum 2
+Ka 0.4 0.4 0.4
+Kd 0.7102 0.702 0.6531
+Ks 0.3 0.3 0.3
+Ns 128.0
+
+newmtl LicensePlates_T_piece_400_LicensePlates_2672
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.061069 0.061069 0.061069
+Ns 80.0
+Ni 1.45
+map_Kd casa_AirEntrance.jpeg
+
+newmtl FrontLights_T_piece_400_2674
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.146018 0.146018 0.146018
+Ns 80.0
+Ni 1.45
+map_Kd casa_AirEntrance.jpeg
+
+newmtl RearLights_T_piece_400_2677
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.146018 0.146018 0.146018
+Ns 80.0
+Ni 1.45
+map_Kd casa_AirEntrance.jpeg
+
+newmtl Tires_T_piece_400_wheels_Cylinder_2678
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 10.0
+Ni 1.45
+map_Kd casa_AirEntrance.jpeg
+
+newmtl Rim_T_piece_400_wheels_Cylinder_672_2679
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 80.0
+Ni 1.45
+map_Kd casa_AirEntrance.jpeg
+
+newmtl Lines_T_piece_400_2681
+illum 1
+Ka 0.005605 0.005605 0.005605
+Kd 0.005605 0.005605 0.005605
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl Handle_T_piece_400_2682
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.009174 0.009174 0.009174
+Ns 80.0
+Ni 1.45
+d 1.0
+map_Kd casa_Handle_T_piece_400_2682.png
+
+newmtl Wenge_
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 92.15686
+Ni 1.0
+map_Kd casa_Wenge_.jpeg
+
+newmtl T_piece_401_2684
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ns 1.0
+Ni 1.0
+
+newmtl Tv_Unit_legs
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.64 0.64 0.64
+Ks 0.5 0.5 0.5
+Ns 92.15686
+Ni 1.0
+
+newmtl Wenge__NONE
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 92.15686
+Ni 1.0
+map_Kd casa_Wenge_.jpeg
+
+newmtl T_piece_402_carpet_2690
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+map_Kd casa_T_piece_402_carpet_2690.jpeg
+
+newmtl gray
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.400726 0.400726 0.400726
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl lighttannew
+illum 2
+Ka 0.098 0.0492 0.0144
+Kd 0.7878 0.607 0.3216
+Ks 0.8286 0.8057 0.5851
+Ns 128.0
+
+newmtl black
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.002 0.002 0.002
+Ks 0.5184 0.5184 0.5184
+Ns 128.0
+
+newmtl blackplastic
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.170351 0.170351 0.170351
+Ks 1.094016 1.094016 1.094016
+Ns 96.07843
+Ni 1.0
+
+newmtl beige
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.972549 0.921569 0.784314
+Ks 0.08 0.08 0.08
+Ns 1.0
+Ni 1.0
+
+newmtl cosins
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.778039 0.737255 0.627451
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_404_2702
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.972549 0.921569 0.784314
+Ks 0.08 0.08 0.08
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_404_2703
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.972549 0.921569 0.784314
+Ks 0.089102 0.089102 0.089102
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_404_2706
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.972549 0.921569 0.784314
+Ks 0.089102 0.089102 0.089102
+Ns 1.0
+Ni 1.0
+
+newmtl cosins_brown
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.505098 0.429804 0.301176
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_404_2713
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.972549 0.921569 0.784314
+Ks 0.089102 0.089102 0.089102
+Ns 1.0
+Ni 1.0
+
+newmtl TEXTILE_generic
+illum 2
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.05 0.05 0.05
+Ns 17.647058
+Ni 1.0
+
+newmtl WOOD_walnut
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.364027 0.097947 0.097947
+Ks 0.383813 0.293347 0.230012
+Ns 128.0
+Ni 0.0
+
+newmtl lighttan2
+illum 2
+Ka 0.098 0.0492 0.0144
+Kd 0.3143 0.187 0.0962
+Ks 0.8286 0.8057 0.5851
+Ns 128.0
+
+newmtl Dining_chair
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.16 0.8
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+
+newmtl Chrome
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.48 0.48 0.4
+Ks 2.0 2.0 2.0
+Ns 128.0
+Ni 1.0
+
+newmtl cabinetBody
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.05 0.05 0.05
+Ns 10.0
+Ni 1.0
+map_Kd casa_cabinetBody.jpeg
+
+newmtl cabinetDoor
+illum 2
+Ka 0.85 0.85 0.85
+Kd 0.85 0.85 0.85
+Ks 0.05 0.05 0.05
+Ns 10.0
+Ni 1.0
+
+newmtl counter
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 25.0
+Ni 1.0
+map_Kd casa_counter.jpeg
+
+newmtl cabinetHandle
+illum 2
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0.5 0.5 0.5
+Ns 90.0
+Ni 1.0
+
+newmtl cabinetDoorBorder
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.05 0.05 0.05
+Ns 10.0
+Ni 1.45
+map_Kd casa_cabinetBody.jpeg
+
+newmtl cabinetBaseboard
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.05 0.05 0.05
+Ns 10.0
+Ni 1.0
+map_Kd casa_cabinetBody.jpeg
+
+newmtl counterBorder
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 25.0
+Ni 1.0
+map_Kd casa_counter.jpeg
+
+newmtl metal
+illum 2
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0.7 0.7 0.7
+Ns 120.0
+Ni 1.0
+
+newmtl sink
+illum 2
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0.7 0.7 0.7
+Ns 120.0
+Ni 1.0
+
+newmtl blue
+illum 2
+Ka 0.0 0.0 0.5
+Kd 0.0 0.0 0.5
+Ks 0.0 0.0 0.0
+Ns 10.0
+Ni 1.0
+
+newmtl red
+illum 2
+Ka 0.7 0.0 0.0
+Kd 0.7 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 10.0
+Ni 1.0
+
+newmtl cooktop_main
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.7 0.7 0.7
+Ks 1.368926 1.368926 1.368926
+Ns 50.0
+
+newmtl cooktop_main_001
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.28 0.28 0.28
+Ks 1.368926 1.368926 1.368926
+Ns 50.0
+
+newmtl cooktop_burner_1
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.68 0.68 0.68
+Ks 0.9344629 0.9344629 0.9344629
+Ns 50.0
+
+newmtl cooktop_burner
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.224 0.224 0.224
+Ks 0.9344629 0.9344629 0.9344629
+Ns 50.0
+
+newmtl metal_T_piece_421_2802
+illum 2
+Ka 0.6 0.6 0.61
+Kd 0.6 0.6 0.61
+Ks 0.7 0.7 0.7
+Ns 70.0
+Ni 1.0
+
+newmtl waterDispenser
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+Ns 30.0
+Ni 1.0
+
+newmtl base
+illum 2
+Ka 0.1 0.1 0.1
+Kd 0.1 0.1 0.1
+Ks 0.0 0.0 0.0
+Ns 2.0
+Ni 1.0
+
+newmtl black_T_piece_421_2805
+illum 2
+Ka 0.01 0.01 0.01
+Kd 0.01 0.01 0.01
+Ks 0.1 0.1 0.1
+Ns 20.0
+Ni 1.0
+
+newmtl wood
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_wood.jpeg
+
+newmtl brass
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.756 0.66286 0.42336
+Ks 0.5 0.466 0.4
+Ns 103.0
+
+newmtl Woodenhandle
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_Woodenhandle.jpeg
+
+newmtl EPmarble2
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_EPmarble2.jpeg
+
+newmtl Aluminum
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.56 0.56 0.56
+Ks 0.705217 0.705217 0.705217
+Ns 105.882355
+Ni 1.0
+
+newmtl Chair_vinyl
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.8 0.8 0.8
+Ks 0.734534 0.734534 0.734534
+Ns 96.07843
+Ni 1.0
+
+newmtl Box27_3
+illum 2
+Ka 0.7569 0.7569 0.7569
+Kd 0.7569 0.7569 0.7569
+Ks 0.603 0.603 0.603
+Ns 20.0
+Ni 1.5
+
+newmtl Line50_9
+illum 2
+Ka 0.251 0.251 0.251
+Kd 0.251 0.251 0.251
+Ks 0.0 0.0 0.0
+Ns 10.0
+Ni 1.5
+
+newmtl Rectangle10_12
+illum 2
+Ka 0.4784 0.4588 0.4588
+Kd 0.4784 0.4588 0.4588
+Ks 0.0 0.0 0.0
+Ns 10.0
+Ni 1.5
+
+newmtl Loft10_1
+illum 2
+Ka 0.8431 0.8431 0.8431
+Kd 0.8431 0.8431 0.8431
+Ks 0.35 0.35 0.35
+Ns 32.0
+
+newmtl Box272_4
+illum 2
+Ka 0.3882 0.0 0.0
+Kd 0.7294 0.0 0.0
+Ks 0.783 0.783 0.783
+Ns 25.0
+Ni 1.5
+
+newmtl metal_T_piece_427_2904
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.26676 0.26676 0.26676
+Ks 0.659574 0.659574 0.659574
+Ns 128.0
+Ni 1.0
+
+newmtl T_piece_427_2905
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.393113 0.393113 0.393113
+Ks 0.569149 0.569149 0.569149
+Ns 128.0
+Ni 1.0
+
+newmtl T_piece_427_2906
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_427_2907
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.538223 0.0 0.007432
+Ks 0.06383 0.06383 0.06383
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_427_2908
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.01 0.01 0.01
+Ns 1.0
+Ni 1.0
+map_Kd casa_T_piece_427_2908.jpeg
+
+newmtl glass
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.010638 0.010638 0.010638
+Ns 1.0
+Ni 1.0
+map_Kd casa_T_piece_427_2908.jpeg
+
+newmtl T_piece_427_2922
+illum 2
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.01 0.01 0.01
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_427_2924
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.698191 0.698191 0.698191
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl T_piece_427_Cube_27_2927
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.054968 0.054968 0.054968
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl Hylle
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_Hylle.jpeg
+
+newmtl rightPillow
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.29171 0.423061 0.568444
+Ks 0.005 0.005 0.005
+Ns 7.843137
+Ni 1.0
+
+newmtl couch
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.44443 0.711844 0.8
+Ks 0.01 0.01 0.01
+Ns 7.843137
+Ni 1.0
+
+newmtl mattress
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.76 0.68 0.624
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl sheet
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.611089 0.707874 0.746462
+Ks 0.005 0.005 0.005
+Ns 7.843137
+Ni 1.0
+
+newmtl leftPillow
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.29171 0.423061 0.568444
+Ks 0.005 0.005 0.005
+Ns 7.843137
+Ni 1.0
+
+newmtl bianco
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.64 0.64 0.64
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+
+newmtl bed
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.143451 0.482282 0.64
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+
+newmtl board
+illum 2
+Ka 1.0 1.0 1.0
+Kd 0.85 0.85 0.85
+Ks 0.2 0.2 0.2
+Ns 20.0
+Ni 1.45
+
+newmtl metal_T_piece_430_2947
+illum 3
+Ka 1.0 1.0 1.0
+Kd 0.559592 0.559592 0.559592
+Ks 0.5 0.5 0.5
+Ns 128.0
+Ni 1.45
+
+newmtl mirror
+illum 2
+Ka 1.0 1.0 1.0
+Kd 0.75 0.75 0.75
+Ks 1.0 1.0 1.0
+Ns 128.0
+Ni 1.0
+
+newmtl Cylinder17_1
+illum 2
+Ka 0.451 0.451 0.451
+Kd 0.451 0.451 0.451
+Ks 0.35 0.35 0.35
+Ns 32.0
+
+newmtl Rectangle06_2
+illum 2
+Ka 0.8275 0.8275 0.8275
+Kd 1.0 1.0 1.0
+Ks 0.972 0.972 0.972
+Ns 10.0
+Ni 1.5
+
+newmtl Rectangle07_3
+illum 2
+Ka 0.7255 0.7255 0.7255
+Kd 0.7255 0.7255 0.7255
+Ks 1.125 1.125 1.125
+Ns 61.0
+Ni 1.5
+
+newmtl Box16_4
+illum 2
+Ka 0.7686 0.8784 0.9137
+Kd 0.7686 0.8784 0.9137
+Ks 1.197 1.197 1.197
+Ns 43.0
+Ni 1.5
+d 0.3
+
+newmtl Rectangle12_7
+illum 2
+Ka 0.8431 0.8431 0.8431
+Kd 0.8431 0.8431 0.8431
+Ks 0.35 0.35 0.35
+Ns 32.0
+
+newmtl Seat
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.8862745 0.8862745 0.8862745
+Ks 0.2421875 0.2421875 0.2421875
+Ns 32.0
+
+newmtl Toilet
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.3828125 0.3828125 0.3828125
+Ns 48.0
+
+newmtl Water
+illum 3
+Ka 0.2 0.2 0.2
+Kd 0.4862745 0.6431373 0.7294118
+Ks 0.828125 0.828125 0.828125
+Ns 106.0
+Ni 1.0
+d 0.5
+
+newmtl Flush
+illum 2
+Ka 0.6 0.6392157 0.6666667
+Kd 0.6 0.6392157 0.6666667
+Ks 1.0 1.0 1.0
+Ns 128.0
+
+newmtl Box02_1
+illum 2
+Ka 0.7255 0.7255 0.7255
+Kd 0.7255 0.7255 0.7255
+Ks 1.125 1.125 1.125
+Ns 61.0
+Ni 1.5
+
+newmtl Line04_2
+illum 2
+Ka 0.8431 0.8431 0.8431
+Kd 0.8431 0.8431 0.8431
+Ks 0.35 0.35 0.35
+Ns 32.0
+
+newmtl Rectangle10_4
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.9 0.9 0.9
+Ns 20.0
+Ni 1.5
+map_Kd casa_Rectangle10_4.jpeg
+
+newmtl Rectangle09_9
+illum 2
+Ka 0.8275 0.8275 0.8275
+Kd 1.0 1.0 1.0
+Ks 0.972 0.972 0.972
+Ns 10.0
+Ni 1.5
+
+newmtl brushedmetal
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_brushedmetal.jpeg
+
+newmtl shinyblack
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0672 0.0672 0.0672
+Ks 0.89 0.89 0.89
+Ns 103.0
+
+newmtl mattblack
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.4 0.4 0.4
+Ns 1.0
+
+newmtl Default_Texture
+illum 1
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+
+newmtl gauge
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_gauge.jpeg
+
+newmtl Appliances
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.931925 0.931925 0.931925
+Ks 1.262236 1.262236 1.262236
+Ns 128.0
+Ni 1.0
+
+newmtl Rubber_ring
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.64 0.64 0.64
+Ks 0.441366 0.441366 0.441366
+Ns 123.52941
+Ni 1.021455
+
+newmtl Black_plastic
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.998385 0.998385 0.998385
+Ns 128.0
+Ni 1.0
+
+newmtl wood_T_piece_450_Box_5__5_33_33_3102
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+map_Kd casa_wood_T_piece_450_Box_5__5_33_33_3102.jpeg
+
+newmtl tela
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl metal_minor
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.494039 0.494039 0.494039
+Ks 0.743435 0.743435 0.743435
+Ns 50.980392
+Ni 1.3
+
+newmtl metal_T_piece_451_3_3_3_3_3115
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 1.139017 1.139017 1.139017
+Ns 128.0
+Ni 1.3
+map_Kd casa_metal_T_piece_451_3_3_3_3_3115.jpeg
+
+newmtl plastic
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.114834 0.114834 0.114834
+Ks 0.5 0.5 0.5
+Ns 19.607843
+Ni 1.0
+
+newmtl gray_metal
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.362142 0.362142 0.362142
+Ks 1.321593 1.321593 1.321593
+Ns 64.70588
+Ni 1.0
+
+newmtl darkmetal
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.189026 0.183438 0.183438
+Ks 1.47374 1.47374 1.47374
+Ns 64.70588
+Ni 1.0
+
+newmtl colour2
+illum 1
+Ka 0.2 0.2 0.2
+Kd 0.43529412 0.54901963 0.3254902
+Ks 0.0 0.0 0.0
+Ns 1.0
+
+newmtl pole
+illum 1
+Ka 0.2 0.2 0.2
+Kd 0.972549 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+
+newmtl colour1
+illum 1
+Ka 0.2 0.2 0.2
+Kd 0.972549 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+
+newmtl trunk
+illum 2
+Ka 0.42 0.357 0.235
+Kd 0.42 0.357 0.235
+Ks 0.1 0.1 0.1
+Ns 10.0
+Ni 1.0
+
+newmtl stems_1
+illum 2
+Ka 0.282 0.376 0.07
+Kd 0.282 0.376 0.07
+Ks 0.3 0.3 0.3
+Ns 60.0
+Ni 1.0
+
+newmtl leaves
+illum 2
+Ka 0.282 0.376 0.07
+Kd 0.282 0.376 0.07
+Ks 0.3 0.3 0.3
+Ns 60.0
+Ni 1.0
+
+newmtl Leaves
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.12 0.3 0.0
+Ks 0.1 0.1 0.1
+Ns 12.0
+
+newmtl Branches
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.52 0.45 0.25
+Ks 0.1 0.1 0.1
+Ns 4.0
+
+newmtl Trunk
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.52 0.45 0.25
+Ks 0.1 0.1 0.1
+Ns 4.0
+
+newmtl trunk_T_piece_457_3163
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.069106 0.069106 0.069106
+Ns 13.72549
+Ni 1.0
+map_Kd casa_trunk_T_piece_457_3163.jpeg
+
+newmtl leaves_T_piece_457_3165
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.247967 0.247967 0.247967
+Ns 37.2549
+Ni 1.0
+d 1.0
+map_Kd casa_leaves_T_piece_457_3165.png
+
+newmtl Stem
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.09292 0.09292 0.09292
+Ns 5.0
+Ni 1.45
+map_Kd casa_Stem.jpeg
+
+newmtl Flower
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.039823 0.039823 0.039823
+Ns 5.0
+Ni 1.45
+map_Kd casa_Flower.jpeg
+
+newmtl Chalice
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.039823 0.039823 0.039823
+Ns 3.0
+Ni 1.45
+map_Kd casa_Stem.jpeg
+
+newmtl T_piece_459_3584
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.221649 0.221649 0.221649
+Ns 92.15686
+Ni 1.0
+d 1.0
+map_Kd casa_T_piece_459_3584.png
+
+newmtl metal_T_piece_459_Cylinder_3586
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.548766 0.548766 0.548766
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+
+newmtl T_piece_459_3588
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.147027 0.208637 0.162029
+Ks 0.221649 0.221649 0.221649
+Ns 92.15686
+Ni 1.0
+
+newmtl bed_venge
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 20.0
+Ni 1.0
+map_Kd casa_bed_venge.jpeg
+
+newmtl bedside_table_feet
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.64 0.64 0.64
+Ks 0.1 0.1 0.1
+Ns 10.0
+Ni 1.0
+
+newmtl bedside_handle_galvanized
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.7 0.7 0.7
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+
+newmtl Wood
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 50.0
+Ni 1.0
+map_Kd casa_Wood_1.jpeg
+
+newmtl Plastic
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.125 0.125 0.125
+Ks 1.0 1.0 1.0
+Ns 100.0
+Ni 1.0
+
+newmtl S_piece_471_3722
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+map_Kd casa_S_piece_471_3722.jpeg
+
+newmtl grey_metal
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.533333 0.533333 0.533333
+Ks 0.849202 0.849202 0.849202
+Ns 50.980392
+Ni 1.0
+
+newmtl black_plastic
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.09085 0.09085 0.09085
+Ks 0.370266 0.370266 0.370266
+Ns 50.980392
+Ni 1.0
+
+newmtl OfficeChair_1
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 2.2974
+map_Kd casa_OfficeChair_1.jpeg
+
+newmtl OfficeChair_2
+illum 2
+Ka 0.121569 0.133333 0.172549
+Kd 0.043137 0.043137 0.043137
+Ks 0.905882 0.858824 0.862745
+Ns 128.0
+
+newmtl OfficeChair_3
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ns 128.0
+
+newmtl wood_S_piece_473_rack_3734
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+map_Kd casa_wood_S_piece_473_rack_3734.jpeg
+
+newmtl structure
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.688649 0.688649 0.688649
+Ks 0.506757 0.506757 0.506757
+Ns 96.07843
+Ni 1.0
+
+newmtl matress
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.8 0.719949 0.634583
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl couch_S_piece_474_3738
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.624648 0.707934 0.572594
+Ks 0.074324 0.074324 0.074324
+Ns 96.07843
+Ni 1.0
+
+newmtl sheet_S_piece_474_3739
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.797628 0.8 0.716228
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl pillow
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.705882 0.8 0.647059
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.0
+
+newmtl rattan
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.028 0.028 0.028
+Ns 30.0
+Ni 1.45
+map_Kd casa_rattan.jpeg
+
+newmtl beigeCushion
+illum 1
+Ka 0.783538 0.760525 0.686685
+Kd 0.783538 0.760525 0.686685
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl borderCushion
+illum 1
+Ka 0.21157 0.206935 0.182502
+Kd 0.21157 0.206935 0.182502
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+
+newmtl rattan_S_piece_480_3818
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.027559 0.027559 0.027559
+Ns 30.0
+Ni 1.45
+map_Kd casa_rattan.jpeg
+
+newmtl fabric
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1.45
+map_Kd casa_fabric.jpeg
+
+newmtl metalHooks
+illum 2
+Ka 1.0 1.0 1.0
+Kd 0.479841 0.479841 0.479841
+Ks 0.948819 0.948819 0.948819
+Ns 110.0
+Ni 1.45
+
+newmtl wood_S_piece_481_wood_Circle_3822
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.051181 0.051181 0.051181
+Ns 20.0
+Ni 1.45
+map_Kd casa_wood_S_piece_481_wood_Circle_3822.jpeg
+
+newmtl ropes
+illum 2
+Ka 0.2 0.2 0.2
+Kd 0.111932 0.057805 0.056129
+Ks 0.5 0.5 0.5
+Ns 2.0
+Ni 1.45
+
+newmtl metalchain
+illum 2
+Ka 1.0 1.0 1.0
+Kd 0.5543 0.5543 0.5543
+Ks 0.948819 0.948819 0.948819
+Ns 110.0
+Ni 1.45
+
+newmtl S_piece_484_3843
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.353529 0.353529 0.353529
+Ns 128.0
+Ni 1.0
+map_Kd casa_S_piece_484_3843.jpeg
+
+newmtl maceta
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.433616 0.247906 0.082205
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+
+newmtl tierra_maceta
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.314021 0.236591 0.167504
+Ks 0.207057 0.207057 0.207057
+Ns 52.941177
+Ni 1.0
+
+newmtl flgrey
+illum 1
+Ka 0.2163 0.2163 0.2163
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+Ns 1.0
+
+newmtl white
+illum 2
+Ka 0.4 0.4 0.4
+Kd 1.0 1.0 1.0
+Ks 0.3 0.3 0.3
+Ns 60.0
+
+newmtl yellowbrt
+illum 2
+Ka 0.4 0.4 0.4
+Kd 1.0 0.7837 0.0
+Ks 0.3 0.3 0.3
+Ns 60.0
+
+newmtl flltgrey
+illum 1
+Ka 0.5224 0.5224 0.5224
+Kd 0.8245 0.8245 0.8245
+Ks 0.0 0.0 0.0
+Ns 1.0
+d 0.5
+
+newmtl T_room_0_4203
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_0_4203.jpeg
+
+newmtl T_room_1_4204
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_1_4204.jpeg
+
+newmtl T_room_3_4206
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_3_4206.jpeg
+
+newmtl T_room_9_4212
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_9_4212.jpeg
+
+newmtl T_room_11_4214
+illum 1
+Ka 0.30980393 0.7019608 0.78431374
+Kd 0.30980393 0.7019608 0.78431374
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+
+newmtl T_room_18_4221
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_18_4221.jpeg
+
+newmtl T_room_19_4222
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_19_4222.jpeg
+
+newmtl T_room_22_4225
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_22_4225.jpeg
+
+newmtl T_room_24_4227
+illum 1
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+Ni 1
+d 1.0
+map_Kd casa_T_room_24_4227.jpeg

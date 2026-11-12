@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Casas 7, 8 e 9 — 3D</title>
+<style>
+:root{--bg:#f3efe6;--ink:#22302a;--mut:#5f6b62;--line:#d8cfbf;--card:#fffdf8;--acc:#2e4937}
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:var(--bg);color:var(--ink);font:15px/1.4 system-ui,Segoe UI,Arial,sans-serif}
+header{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--card)}
+h1{font:600 20px Georgia,serif;margin:0}
+.grp{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.grp span{color:var(--mut);font-size:13px;margin-right:2px}
+button,select{font:inherit;border:1px solid var(--line);background:#fff;padding:6px 12px;border-radius:999px;cursor:pointer;color:var(--ink)}
+button[aria-pressed=true]{background:var(--acc);color:#fff;border-color:var(--acc)}
+#wrap{position:relative;height:calc(100% - 64px)}
+canvas{display:block;width:100%;height:100%;touch-action:none}
+#status{position:absolute;left:16px;bottom:14px;background:#fffdf8e6;border:1px solid var(--line);padding:6px 10px;border-radius:8px;font-size:13px;color:var(--mut)}
+@media (max-width:700px){header{padding:8px}h1{font-size:17px}#wrap{height:calc(100% - 140px)}}
+</style></head><body>
+<header>
+ <h1><a href="../../projetos-7-8-9.html" style="color:inherit;text-decoration:none">← Casas 7 · 8 · 9</a> — 3D navegável</h1>
+ <div class="grp"><span>Projeto</span>
+  <button data-p="7" aria-pressed="true">Casa 7</button><button data-p="8" aria-pressed="false">Casa 8</button><button data-p="9" aria-pressed="false">Casa 9</button></div>
+ <div class="grp"><span>Mostrar</span>
+  <select id="mode" aria-label="Modo de visualização"><option value="all">Casa completa</option><option value="noroof">Sem coberturas</option><option value="upper">Superior aberto</option><option value="ground">Térreo aberto</option></select></div>
+ <div class="grp"><span>Vista</span>
+  <button data-v="aerial">Conjunto</button><button data-v="front">Fachada</button><button data-v="leisure">Lazer</button><button data-v="stair">Escada</button></div>
+</header>
+<div id="wrap"><canvas id="c"></canvas><div id="status">Carregando o modelo exportado do Sweet Home 3D…</div></div>
+<script src="lib/three.min.js"></script><script src="lib/OrbitControls.js"></script><script src="lib/MTLLoader.js"></script><script src="lib/OBJLoader.js"></script>
+<script>
+const canvas=document.getElementById('c'),statusEl=document.getElementById('status');
+const renderer=new THREE.WebGLRenderer({canvas,antialias:true,preserveDrawingBuffer:true});
+renderer.setPixelRatio(Math.min(devicePixelRatio,2));renderer.outputEncoding=THREE.sRGBEncoding;
+renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;
+const scene=new THREE.Scene();scene.background=new THREE.Color(0xcfe2ef);scene.fog=new THREE.Fog(0xcfe2ef,90,260);
+const camera=new THREE.PerspectiveCamera(42,1,0.1,800);
+const controls=new THREE.OrbitControls(camera,canvas);controls.enableDamping=true;controls.maxPolarAngle=Math.PI*0.495;
+scene.add(new THREE.HemisphereLight(0xfff6e8,0x8c7a5a,0.75));
+const sun=new THREE.DirectionalLight(0xffe2b8,1.0);sun.position.set(-30,26,-8);sun.castShadow=true;
+sun.shadow.mapSize.set(2048,2048);Object.assign(sun.shadow.camera,{left:-30,right:30,top:30,bottom:-30,near:1,far:120});sun.target.position.set(6,0,17);
+scene.add(sun,sun.target);
+const ground=new THREE.Mesh(new THREE.PlaneGeometry(600,600),new THREE.MeshLambertMaterial({color:0xb9a07a}));
+ground.rotation.x=-Math.PI/2;ground.position.y=-0.02;ground.receiveShadow=true;scene.add(ground);
+const street=new THREE.Mesh(new THREE.PlaneGeometry(200,8),new THREE.MeshLambertMaterial({color:0x8f8c86}));
+street.rotation.x=-Math.PI/2;street.position.set(6,-0.01,39);scene.add(street);
+let model=null,current=null;window.ASSETS_READY=false;
+const VIEWS={aerial:[[24,21,47],[6,0.5,17]],front:[[15,6.5,47],[6,3.2,27]],leisure:[[17,12.5,26],[7.5,0.8,9]],stair:[[6.5,5.2,26],[2.8,1.6,21.5]]};
+function view(v){const [p,t]=VIEWS[v];camera.position.set(...p);controls.target.set(...t);controls.update();}
+function setMode(m){document.getElementById('mode').value=m;if(!model)return;
+ model.traverse(o=>{if(!o.isMesh)return;const n=o.name||'';const isRoof=n.startsWith('R_')||n.endsWith('_roof');const isUpper=n.startsWith('S_');
+  o.visible= m==='all'?true: m==='noroof'?!isRoof: m==='upper'?!isRoof: !(isRoof||isUpper);});}
+function load(p){
+ window.ASSETS_READY=false;statusEl.textContent='Carregando '+p+' (modelo do Sweet Home 3D, pode levar alguns segundos)…';
+ if(model){scene.remove(model);model.traverse(o=>{if(o.geometry)o.geometry.dispose();});model=null;}
+ const base=p+'/3d/';new THREE.MTLLoader().setPath(base).load('casa.mtl',mtl=>{mtl.preload();
+  new THREE.OBJLoader().setMaterials(mtl).setPath(base).load('casa.obj',obj=>{
+   obj.scale.setScalar(0.01);
+   obj.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=true;const ms=Array.isArray(o.material)?o.material:[o.material];
+     ms.forEach(m=>{m.side=THREE.DoubleSide;if(m.map)m.map.encoding=THREE.sRGBEncoding;if(m.opacity<1)m.transparent=true;});}});
+   model=obj;scene.add(obj);current=p;setMode(document.getElementById('mode').value);
+   statusEl.textContent='Arraste para girar · role ou pince para aproximar · botão direito para deslocar';window.ASSETS_READY=true;},
+   e=>{if(e.total)statusEl.textContent='Carregando modelo… '+Math.round(e.loaded/e.total*100)+'%';},
+   e=>{statusEl.textContent='Falha ao carregar o modelo: '+e;});});
+}
+function resize(){const w=canvas.clientWidth,h=canvas.clientHeight;renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix();}
+addEventListener('resize',resize);
+document.querySelectorAll('[data-p]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-p]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));load(b.dataset.p);
+ const u=new URL(location.href);u.searchParams.set('projeto',b.dataset.p);history.replaceState(null,'',u);});
+document.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>view(b.dataset.v));
+document.getElementById('mode').onchange=e=>setMode(e.target.value);
+window.VIEWER={load,view,setMode,capture:(w=1800,h=1200)=>{renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix();renderer.render(scene,camera);const d=canvas.toDataURL('image/png');resize();return d;},
+ setShadows:on=>{renderer.shadowMap.enabled=on;scene.traverse(o=>{if(o.material){(Array.isArray(o.material)?o.material:[o.material]).forEach(m=>m.needsUpdate=true);}});},
+ setSun:(x,y,z,i)=>{sun.position.set(x,y,z);if(i!=null)sun.intensity=i;}};
+(function loop(){requestAnimationFrame(loop);controls.update();renderer.render(scene,camera);})();
+resize();view('aerial');
+const q=new URLSearchParams(location.search).get('projeto');const start=['7','8','9'].includes(q)?q:'7';
+document.querySelectorAll('[data-p]').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===start)));load(start);
+</script></body></html>
