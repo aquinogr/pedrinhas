@@ -1,0 +1,269 @@
+{
+  "numero": 6,
+  "data": "2026-11-13",
+  "estado": "PASSOU",
+  "fonte_sha256": "02aae737d17b3e1c0aee7c2907cb5fa4a500fa5e1253f168615cbdcb34f0c222",
+  "total": 25,
+  "janelas": 16,
+  "itens": [
+    {
+      "item": "terreo q1 → v1 (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo q1 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo b1 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo q2 → v2 (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo q2 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo b2 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo q3 → v3 (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo q3 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo b3 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo hall-escada → exterior (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo lavanderia → exterior (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo deposito → exterior (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo lavabo → exterior (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "terreo estar → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo cozinha → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo lavabo → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo lavanderia → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "terreo deposito → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "superior escritorio → hall-escada (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "superior v5 → q5 (giro)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo_ensaiado": "setor inteiro 0–90°",
+        "limite": "Folha nominal menos tolerância do marco; ferragens reais a especificar."
+      }
+    },
+    {
+      "item": "superior master → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "superior escritorio → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "superior q5 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.336,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "superior b5 → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    },
+    {
+      "item": "superior banho-master → exterior (janela)",
+      "resultado": "PASSOU",
+      "interferencias": [],
+      "detalhe": {
+        "angulo": 15,
+        "projecao_maxima": 0.181,
+        "sentido": "para fora",
+        "envolvente_conservadora": true
+      }
+    }
+  ],
+  "falhas": [],
+  "limites": "Envoltórias geométricas do estudo, não especificação de produtos ou laudo. Não inclui ferragens, deformações, construção real, vegetação futura ou restrições não modeladas. Rotas com corpo e folhas abertas estão na AUDITORIA.json."
+}

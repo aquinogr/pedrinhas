@@ -1,0 +1,11 @@
+{
+  "terreno": 420,
+  "terreo": 214.81,
+  "superior": 106.79,
+  "construida": 321.6,
+  "projecao": 219.81,
+  "solo_natural": 129.42,
+  "solo_natural_percentual": 30.81,
+  "piscina": 10.0,
+  "criterio": "União de projeções, coberturas, piscina/bordas, pavimentação e vagas inteiras; não conta grama das vagas como natural."
+}

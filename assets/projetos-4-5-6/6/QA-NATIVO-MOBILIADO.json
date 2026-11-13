@@ -1,0 +1,11 @@
+{
+  "data": "2026-11-13",
+  "numero": 6,
+  "estado": "PASSOU",
+  "grupos": 289,
+  "faces_texturizadas": 120204,
+  "vertices_pes_reassentados_no_piso": 89,
+  "recursos_incorporados": true,
+  "sha256": "38525875314e97141cb3a28fda5373ccd18d9cdb20cc578956b78aa54daf6272",
+  "limite": "Reabertura e integridade nativa; ver interface e auditorias separadas. Pés de cópias simplificadas reajustados até 5 mm ao plano nominal, sem mudar arquitetura ou GLB de apresentação."
+}

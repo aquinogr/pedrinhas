@@ -1,0 +1,2894 @@
+{
+  "numero": 6,
+  "revisao": "R2",
+  "estado": "PASSOU",
+  "metricas": {
+    "terreno": 420,
+    "terreo": 214.81,
+    "superior": 106.79,
+    "construida": 321.6,
+    "projecao": 219.81,
+    "solo_natural": 129.42,
+    "solo_natural_percentual": 30.81,
+    "piscina": 10.0,
+    "criterio": "União de projeções, coberturas, piscina/bordas, pavimentação e vagas inteiras; não conta grama das vagas como natural."
+  },
+  "total_verificacoes": 567,
+  "falhas": [],
+  "verificados": [
+    {
+      "item": "Ambientes sem sobreposição terreo q1/b1",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/v1",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/q2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/v2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/b2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q1/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/v1",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/q2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/v2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/b2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b1/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/q2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/v2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/b2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v1/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/v2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/b2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q2/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/b2",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v2/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b2/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo circulacao/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-escada/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo hall-central/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/q3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo escada/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/v3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo q3/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo v3/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/conexao",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo b3/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/estar",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo conexao/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo estar/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo cozinha/gourmet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo cozinha/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo cozinha/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo cozinha/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo cozinha/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo cozinha/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo gourmet/quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo gourmet/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo gourmet/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo gourmet/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo gourmet/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo quiosque/lavanderia",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo quiosque/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo quiosque/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo quiosque/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo lavanderia/deposito",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo lavanderia/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo lavanderia/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo deposito/lavabo",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo deposito/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição terreo lavabo/apoio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/escritorio",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior varanda/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escritorio/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/hall-escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior master/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-escada/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-central/escada",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-central/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-central/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-central/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-central/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior hall-central/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escada/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escada/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escada/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escada/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior escada/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior closet/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior closet/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior closet/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior closet/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior banho-master/q5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior banho-master/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior banho-master/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior q5/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior q5/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Ambientes sem sobreposição superior v5/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Bloco íntimo / varanda rio",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Bloco íntimo / varanda rio",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Suítes posteriores",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Suítes posteriores",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Escada superior",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Escada superior",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Transição estar",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Transição estar",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Pavilhão social duas águas",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Pavilhão social duas águas",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Quiosque",
+      "detalhe": null
+    },
+    {
+      "item": "Cobertura dentro das premissas: Apoio de fundos",
+      "detalhe": null
+    },
+    {
+      "item": "Piscina não coberta: Apoio de fundos",
+      "detalhe": null
+    },
+    {
+      "item": "Solo natural ≥ 30% do briefing",
+      "detalhe": {
+        "terreno": 420,
+        "terreo": 214.81,
+        "superior": 106.79,
+        "construida": 321.6,
+        "projecao": 219.81,
+        "solo_natural": 129.42,
+        "solo_natural_percentual": 30.81,
+        "piscina": 10.0,
+        "criterio": "União de projeções, coberturas, piscina/bordas, pavimentação e vagas inteiras; não conta grama das vagas como natural."
+      }
+    },
+    {
+      "item": "Piscina pequena de 10 m²",
+      "detalhe": null
+    },
+    {
+      "item": "Três vagas de 2,50 × 5,00",
+      "detalhe": null
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 1.7,
+        "y": 5.2,
+        "z": 6.15,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 10.3,
+        "y": 5.2,
+        "z": 6.15,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 10.35,
+        "y": 17.05,
+        "z": 6.15,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 10.35,
+        "y": 19.15,
+        "z": 6.15,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 6.55,
+        "y": 18.53,
+        "z": 6.15,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 1.78,
+        "y": 22.75,
+        "z": 3.0,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 10.22,
+        "y": 22.75,
+        "z": 3.0,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 1.78,
+        "y": 26.17,
+        "z": 3.0,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 10.22,
+        "y": 26.17,
+        "z": 3.0,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 6.93,
+        "y": 26.5,
+        "z": 3.0,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Pilar dentro dos recuos do briefing",
+      "detalhe": {
+        "x": 10.22,
+        "y": 31.1,
+        "z": 3.0,
+        "largura": 0.2
+      }
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo q1",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo b1",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo v1",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo q2",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo v2",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo b2",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo circulacao",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo hall-escada",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo hall-central",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo q3",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo v3",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo b3",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo conexao",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo estar",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo cozinha",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo gourmet",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo quiosque",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo lavanderia",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo deposito",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo lavabo",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: terreo apoio",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior varanda",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior escritorio",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior master",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior hall-escada",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior hall-central",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior closet",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior banho-master",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior q5",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior v5",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cobertura integral do ambiente: superior b5",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo q1 Cama casal",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo q1 Cama casal/Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo q1 Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo q2 Cama casal",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo q2 Cama casal/Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo q2 Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo q3 Cama casal",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo q3 Cama casal/Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo q3 Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b1 Box 0,98 × 0,97",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b1 Box 0,98 × 0,97/Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b1 Box 0,98 × 0,97/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b1 Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b1 Bacia sanitária/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b1 Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b2 Box 0,98 × 0,97",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b2 Box 0,98 × 0,97/Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b2 Box 0,98 × 0,97/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b2 Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b2 Bacia sanitária/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b2 Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b3 Box 0,98 × 0,97",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b3 Box 0,98 × 0,97/Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b3 Box 0,98 × 0,97/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b3 Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo b3 Bacia sanitária/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo b3 Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo lavabo Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo lavabo Bacia sanitária/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo lavabo Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo estar Sofá",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo estar Sofá/TV / rack",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo estar TV / rack",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo cozinha Bancada cozinha",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo cozinha Bancada cozinha/Geladeira",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo cozinha Geladeira",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Mesa 8 lugares",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Mesa 8 lugares/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo gourmet Cadeira refeição/Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo gourmet Cadeira refeição",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo quiosque Sofá de jardim",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo quiosque Sofá de jardim/Poltrona jardim",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo quiosque Sofá de jardim/Poltrona jardim",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo quiosque Poltrona jardim",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: terreo quiosque Poltrona jardim/Poltrona jardim",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo quiosque Poltrona jardim",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo lavanderia Tanque e bancada",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: terreo apoio Pia / churrasqueira",
+      "detalhe": null
+    },
+    {
+      "item": "Giro sem móvel: terreo q1/v1",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo q1/v1",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cassete em parede contínua: terreo v1/b1",
+      "detalhe": null
+    },
+    {
+      "item": "Cassete em parede contínua: terreo v1/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Giro sem móvel: terreo q2/v2",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo q2/v2",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cassete em parede contínua: terreo v2/b2",
+      "detalhe": null
+    },
+    {
+      "item": "Cassete em parede contínua: terreo v2/circulacao",
+      "detalhe": null
+    },
+    {
+      "item": "Giro sem móvel: terreo q3/v3",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo q3/v3",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cassete em parede contínua: terreo v3/b3",
+      "detalhe": null
+    },
+    {
+      "item": "Cassete em parede contínua: terreo v3/hall-central",
+      "detalhe": null
+    },
+    {
+      "item": "Giro sem móvel: terreo hall-escada/exterior",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo hall-escada/exterior",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Giro sem móvel: terreo lavanderia/exterior",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo lavanderia/exterior",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Giro sem móvel: terreo deposito/exterior",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo deposito/exterior",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Giro sem móvel: terreo lavabo/exterior",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: terreo lavabo/exterior",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo q1/v1",
+      "detalhe": [
+        4.58,
+        4.63,
+        4.68
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo v1/b1",
+      "detalhe": [
+        9.41,
+        9.46,
+        9.51
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo v1/circulacao",
+      "detalhe": [
+        9.43,
+        9.48,
+        9.53
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo q2/v2",
+      "detalhe": [
+        7.18,
+        7.23,
+        7.28
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo v2/b2",
+      "detalhe": [
+        9.41,
+        9.46,
+        9.51
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo v2/circulacao",
+      "detalhe": [
+        9.43,
+        9.48,
+        9.53
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo q3/v3",
+      "detalhe": [
+        7.18,
+        7.23,
+        7.28
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo v3/b3",
+      "detalhe": [
+        15.41,
+        15.46,
+        15.51
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo v3/hall-central",
+      "detalhe": [
+        15.43,
+        15.48,
+        15.53
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo circulacao/hall-central",
+      "detalhe": [
+        5.8,
+        5.85,
+        5.9
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo hall-escada/hall-central",
+      "detalhe": [
+        11.58,
+        11.63,
+        11.68
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo hall-escada/exterior",
+      "detalhe": [
+        11.61,
+        11.66,
+        11.71
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo hall-central/conexao",
+      "detalhe": [
+        5.03,
+        5.08,
+        5.13
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo conexao/estar",
+      "detalhe": [
+        5.08,
+        5.13,
+        5.18
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo estar/cozinha",
+      "detalhe": [
+        19.88,
+        19.93,
+        19.98
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo estar/gourmet",
+      "detalhe": [
+        3.73,
+        3.78,
+        3.83
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo cozinha/gourmet",
+      "detalhe": [
+        7.33,
+        7.38,
+        7.43
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo lavanderia/exterior",
+      "detalhe": [
+        2.73,
+        2.78,
+        2.83
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo deposito/exterior",
+      "detalhe": [
+        4.73,
+        4.78,
+        4.83
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo lavabo/exterior",
+      "detalhe": [
+        6.53,
+        6.58,
+        6.63
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: terreo apoio/exterior",
+      "detalhe": [
+        8.58,
+        8.63,
+        8.68
+      ]
+    },
+    {
+      "item": "Rota contínua: terreo rua → q1",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          4.64,
+          6.390000000000001
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → q2",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          9.639999999999999,
+          6.390000000000001
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → q3",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          9.639999999999999,
+          12.39
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → estar",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          5.15,
+          20.95
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → cozinha",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          8.5,
+          20.625
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → lavanderia",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          2.8499999999999996,
+          31.825000000000003
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → deposito",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          4.85,
+          31.825000000000003
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → lavabo",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          6.49,
+          33.045
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo quarto 1 → banho próprio/reversível",
+      "detalhe": {
+        "inicio": [
+          4.64,
+          6.390000000000001
+        ],
+        "fim": [
+          2.8099999999999996,
+          9.3
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo quarto 2 → banho próprio/reversível",
+      "detalhe": {
+        "inicio": [
+          9.639999999999999,
+          6.390000000000001
+        ],
+        "fim": [
+          9.19,
+          9.3
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo quarto 3 → banho próprio/reversível",
+      "detalhe": {
+        "inicio": [
+          9.639999999999999,
+          12.39
+        ],
+        "fim": [
+          9.19,
+          15.3
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo rua → partida da escada",
+      "detalhe": {
+        "inicio": [
+          0.6,
+          0.5
+        ],
+        "fim": [
+          2.325,
+          11.75
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo cozinha → deck da piscina",
+      "detalhe": {
+        "inicio": [
+          8.5,
+          20.625
+        ],
+        "fim": [
+          6.35,
+          28.55
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: terreo piscina → lavabo externo",
+      "detalhe": {
+        "inicio": [
+          6.35,
+          28.55
+        ],
+        "fim": [
+          6.49,
+          33.045
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo q1",
+      "detalhe": {
+        "area": 2.34,
+        "referencia": 2.16,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo b1",
+      "detalhe": {
+        "area": 0.63,
+        "referencia": 0.47,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo q2",
+      "detalhe": {
+        "area": 2.34,
+        "referencia": 2.16,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo b2",
+      "detalhe": {
+        "area": 0.63,
+        "referencia": 0.47,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo q3",
+      "detalhe": {
+        "area": 2.34,
+        "referencia": 2.16,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo b3",
+      "detalhe": {
+        "area": 0.63,
+        "referencia": 0.47,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: terreo estar",
+      "detalhe": {
+        "area": 8.4,
+        "referencia": 3.07,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Aproximação ao armário: terreo q1",
+      "detalhe": [
+        [
+          2.05,
+          7.954999999999998
+        ],
+        [
+          2.15,
+          7.954999999999998
+        ],
+        [
+          2.25,
+          7.954999999999998
+        ]
+      ]
+    },
+    {
+      "item": "Aproximação ao armário: terreo q2",
+      "detalhe": [
+        [
+          9.1,
+          7.954999999999998
+        ],
+        [
+          9.2,
+          7.954999999999998
+        ],
+        [
+          9.299999999999999,
+          7.954999999999998
+        ]
+      ]
+    },
+    {
+      "item": "Aproximação ao armário: terreo q3",
+      "detalhe": [
+        [
+          9.1,
+          13.954999999999998
+        ],
+        [
+          9.2,
+          13.954999999999998
+        ],
+        [
+          9.299999999999999,
+          13.954999999999998
+        ]
+      ]
+    },
+    {
+      "item": "Oito cadeiras na mesa, sem sobreposição",
+      "detalhe": null
+    },
+    {
+      "item": "Espaço posterior da cadeira 1",
+      "detalhe": [
+        4.625000000000001,
+        22.7,
+        5.075,
+        23.45
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 2",
+      "detalhe": [
+        4.625000000000001,
+        25.55,
+        5.075,
+        26.3
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 3",
+      "detalhe": [
+        5.325000000000001,
+        22.7,
+        5.775,
+        23.45
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 4",
+      "detalhe": [
+        5.325000000000001,
+        25.55,
+        5.775,
+        26.3
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 5",
+      "detalhe": [
+        6.025,
+        22.7,
+        6.475,
+        23.45
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 6",
+      "detalhe": [
+        6.025,
+        25.55,
+        6.475,
+        26.3
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 7",
+      "detalhe": [
+        6.7250000000000005,
+        22.7,
+        7.175,
+        23.45
+      ]
+    },
+    {
+      "item": "Espaço posterior da cadeira 8",
+      "detalhe": [
+        6.7250000000000005,
+        25.55,
+        7.175,
+        26.3
+      ]
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior master Cama queen",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior q5 Cama casal",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior q5 Cama casal/Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior q5 Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior banho-master Box 0,98 × 0,97",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior banho-master Box 0,98 × 0,97/Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior banho-master Box 0,98 × 0,97/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior banho-master Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior banho-master Bacia sanitária/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior banho-master Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior b5 Box 0,98 × 0,97",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior b5 Box 0,98 × 0,97/Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior b5 Box 0,98 × 0,97/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior b5 Bacia sanitária",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior b5 Bacia sanitária/Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior b5 Lavatório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior closet Armário de correr",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior escritorio Mesa escritório",
+      "detalhe": null
+    },
+    {
+      "item": "Móveis sem colisão: superior escritorio Mesa escritório/Cadeira escritório",
+      "detalhe": null
+    },
+    {
+      "item": "Móvel dentro do ambiente: superior escritorio Cadeira escritório",
+      "detalhe": null
+    },
+    {
+      "item": "Giro sem móvel: superior escritorio/hall-escada",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: superior escritorio/hall-escada",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cassete em parede contínua: superior hall-central/closet",
+      "detalhe": null
+    },
+    {
+      "item": "Cassete em parede contínua: superior closet/master",
+      "detalhe": null
+    },
+    {
+      "item": "Cassete em parede contínua: superior closet/banho-master",
+      "detalhe": null
+    },
+    {
+      "item": "Cassete em parede contínua: superior hall-central/v5",
+      "detalhe": null
+    },
+    {
+      "item": "Giro sem móvel: superior v5/q5",
+      "detalhe": []
+    },
+    {
+      "item": "Giro sem parede: superior v5/q5",
+      "detalhe": 0.0
+    },
+    {
+      "item": "Cassete em parede contínua: superior v5/b5",
+      "detalhe": null
+    },
+    {
+      "item": "Passagem direta pelo vão: superior master/varanda",
+      "detalhe": [
+        7.13,
+        7.18,
+        7.23
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior escritorio/varanda",
+      "detalhe": [
+        3.03,
+        3.08,
+        3.13
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior escritorio/hall-escada",
+      "detalhe": [
+        3.48,
+        3.53,
+        3.58
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior hall-escada/hall-central",
+      "detalhe": [
+        11.4,
+        11.46,
+        11.5
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior hall-central/closet",
+      "detalhe": [
+        12.48,
+        12.53
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior closet/master",
+      "detalhe": [
+        6.48,
+        6.53,
+        6.58
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior closet/banho-master",
+      "detalhe": [
+        11.61,
+        11.66,
+        11.71
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior hall-central/v5",
+      "detalhe": [
+        17.61,
+        17.66,
+        17.71
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior v5/q5",
+      "detalhe": [
+        6.33,
+        6.38,
+        6.43
+      ]
+    },
+    {
+      "item": "Passagem direta pelo vão: superior v5/b5",
+      "detalhe": [
+        17.61,
+        17.66,
+        17.71
+      ]
+    },
+    {
+      "item": "Rota contínua: superior chegada da escada → master",
+      "detalhe": {
+        "inicio": [
+          3.775,
+          11.75
+        ],
+        "fim": [
+          9.19,
+          9.91
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior chegada da escada → escritorio",
+      "detalhe": {
+        "inicio": [
+          3.775,
+          11.75
+        ],
+        "fim": [
+          3.7,
+          10.05
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior chegada da escada → q5",
+      "detalhe": {
+        "inicio": [
+          3.775,
+          11.75
+        ],
+        "fim": [
+          9.19,
+          14.790000000000001
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior chegada da escada → closet",
+      "detalhe": {
+        "inicio": [
+          3.775,
+          11.75
+        ],
+        "fim": [
+          6.95,
+          12.1
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior chegada da escada → b5",
+      "detalhe": {
+        "inicio": [
+          3.775,
+          11.75
+        ],
+        "fim": [
+          9.19,
+          17.5
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior chegada da escada → banho-master",
+      "detalhe": {
+        "inicio": [
+          3.775,
+          11.75
+        ],
+        "fim": [
+          9.19,
+          11.5
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior master → banheiro",
+      "detalhe": {
+        "inicio": [
+          9.19,
+          9.91
+        ],
+        "fim": [
+          9.19,
+          11.5
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior suíte 5 → banheiro",
+      "detalhe": {
+        "inicio": [
+          9.19,
+          14.790000000000001
+        ],
+        "fim": [
+          9.19,
+          17.5
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior master → varanda frontal",
+      "detalhe": {
+        "inicio": [
+          9.19,
+          9.91
+        ],
+        "fim": [
+          7.4,
+          6.75
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Rota contínua: superior escritorio → varanda frontal",
+      "detalhe": {
+        "inicio": [
+          3.7,
+          10.05
+        ],
+        "fim": [
+          3.2,
+          6.75
+        ],
+        "componente_inicio": 1,
+        "componente_fim": 1
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: superior escritorio",
+      "detalhe": {
+        "area": 6.74,
+        "referencia": 2.14,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: superior master",
+      "detalhe": {
+        "area": 8.14,
+        "referencia": 2.71,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: superior banho-master",
+      "detalhe": {
+        "area": 0.63,
+        "referencia": 0.58,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: superior q5",
+      "detalhe": {
+        "area": 2.6,
+        "referencia": 2.56,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Abertura nominal conforme referência do briefing: superior b5",
+      "detalhe": {
+        "area": 0.63,
+        "referencia": 0.5,
+        "ventilacao_efetiva": "não calculada"
+      }
+    },
+    {
+      "item": "Aproximação ao armário: superior q5",
+      "detalhe": [
+        [
+          9.1,
+          16.154999999999998
+        ],
+        [
+          9.2,
+          16.154999999999998
+        ],
+        [
+          9.299999999999999,
+          16.154999999999998
+        ]
+      ]
+    },
+    {
+      "item": "Aproximação ao armário: superior closet",
+      "detalhe": [
+        [
+          6.2,
+          12.555
+        ],
+        [
+          6.3,
+          12.555
+        ],
+        [
+          6.4,
+          12.555
+        ]
+      ]
+    },
+    {
+      "item": "Escada vence 3,15 m",
+      "detalhe": null
+    },
+    {
+      "item": "Blondel 63–65 cm",
+      "detalhe": null
+    },
+    {
+      "item": "Largura entre corrimãos ≥ 0,90 m",
+      "detalhe": 1.08
+    }
+  ],
+  "limites": "Corpo 0,60 m, grade 0,10 m, folhas abertas. Não certifica acessibilidade ou segurança. Box tratado como piso transitável, a detalhar com fechamento retrátil; ensaio não inclui ferragens, vegetação ou obstáculos não modelados."
+}

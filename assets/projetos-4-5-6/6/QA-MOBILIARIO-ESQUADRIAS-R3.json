@@ -1,0 +1,109 @@
+{
+  "numero": 6,
+  "estado": "PASSOU",
+  "ensaios": 25,
+  "pecas_mobiliario": 134,
+  "itens": [
+    {
+      "abertura": "terreo / q1 → v1 / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / q1 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / b1 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / q2 → v2 / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / q2 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / b2 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / q3 → v3 / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / q3 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / b3 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / hall-escada → exterior / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / lavanderia → exterior / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / deposito → exterior / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / lavabo → exterior / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / escritorio → hall-escada / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / v5 → q5 / giro",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / master → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / escritorio → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / q5 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / b5 → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "superior / banho-master → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / estar → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / cozinha → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / lavabo → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / lavanderia → exterior / janela",
+      "interferencias": []
+    },
+    {
+      "abertura": "terreo / deposito → exterior / janela",
+      "interferencias": []
+    }
+  ],
+  "limites": "Caixas reais das malhas de móveis/veículos exportadas do Blender versus folhas; superfícies curvas tratadas conservadoramente. Aberturas versus paredes/pilares e rotas estão nos outros relatórios. Não especificação de ferragens ou certificação para obra."
+}
