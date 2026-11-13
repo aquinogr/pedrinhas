@@ -20,6 +20,7 @@ function plan(lv){
  if(lv==='S'){let ghost=e('g',{opacity:.13},svg);for(const c of p.rooms.filter(c=>c.level==='T'))rect(ghost,c.x,c.y,c.w,c.h,colors[c.kind]||'#d5d0bc',{stroke:'#5f705d','stroke-width':.04});let q=p.pool;rect(ghost,q.x,q.y,q.w,q.h,'#399ba9');text(svg,6,34,'Implantação do térreo em projeção',.17);}
  if(lv==='T'){
   for(const r of [...p.hardscape,...p.parkingTracks])rect(svg,r.x,r.y,r.w,r.h,'#dedac9');
+  for(const m of (p.boundaryWalls||[]))rect(svg,m.x,m.y,m.w,m.h,'#5d584d');if(p.boundaryWalls)text(svg,6,36.05,'Muro de divisa h = 2,50 m nas laterais e no fundo',.17);
   for(let i=0;i<3;i++){let x=1.65+2.5*i;rect(svg,x,0,2.5,5,'none',{stroke:'#7b896f','stroke-width':.025,'stroke-dasharray':'.12 .10'});rect(svg,x+.325,.025,1.85,4.1,['#dfded6','#91a5a3','#657774'][i],{rx:.28,stroke:'#59665a','stroke-width':.035});rect(svg,x+.48,1.1,1.54,1.5,'#68888c',{rx:.12});text(svg,x+1.25,4.84,'2,50 × 5,00',.14)}
   let q=p.pool;rect(svg,q.x-.15,q.y-.15,q.w+.3,q.h+.3,'#f0e2ca');rect(svg,q.x,q.y,q.w,q.h,'#75bec5',{stroke:'#368b94','stroke-width':.03});for(let y=q.y+.3;y<q.y+q.h;y+=.45)path(svg,`M${q.x+.18} ${y}q.35 -.13 .7 0t.7 0t.7 0`,'#bfe6e4',.02);text(svg,q.x+q.w/2,q.y+q.h*.45,'PISCINA',.18,{'font-weight':'bold'});text(svg,q.x+q.w/2,q.y+q.h*.45+.35,q.w.toFixed(2)+' × '+q.h.toFixed(2)+' m',.17);
  }
@@ -97,6 +98,7 @@ function build(){
  if(building){scene.remove(building);building.traverse(o=>{if(o.geometry&&!o.userData.asset)o.geometry.dispose()})}building=new THREE.Group();scene.add(building);let p=D[key],ex=mode==='exterior';
  box(building,12,.15,35,6,-.12,17.5,'#859d71');box(building,18,.08,5,6,-.1,-2.5,'#a4a495');
  for(const r of [...p.hardscape,...p.parkingTracks])box(building,r.w,.035,r.h,r.x+r.w/2,.01,r.y+r.h/2,'#d7d2bd');
+ for(const m of (p.boundaryWalls||[])){const hh=m.height||2.5;box(building,m.w,hh,m.h,m.x+m.w/2,hh/2-.05,m.y+m.h/2,'#e3dccb');box(building,m.w+.04,.05,m.h+.04,m.x+m.w/2,hh-.03,m.y+m.h/2,'#d2c9b5');}
  for(let i=0;i<3;i++)model(building,i===1?'carSegmentA':'suv2',2.9+i*2.5,2.075,1.85,4.1,.03);
  let q=p.pool;box(building,q.w+.3,.10,q.h+.3,q.x+q.w/2,.01,q.y+q.h/2,'#e9ddc5');box(building,q.w,.035,q.h,q.x+q.w/2,.071,q.y+q.h/2,new THREE.MeshPhysicalMaterial({color:'#55aeb9',roughness:.35,metalness:.02,clearcoat:.2}));
  // Acesso por escada inox; partes submersas não simulam uma falsa escada rasa.
