@@ -1,0 +1,221 @@
+{
+  "versao": "R1",
+  "data": "2026-11-13",
+  "status": "Verificações geométricas do estudo concluídas",
+  "itens": [
+    {
+      "item": "Arquivo nativo",
+      "resultado": "Verificado no estudo",
+      "valor": 481,
+      "alcance": "Reaberto pela biblioteca IngeTrazo; não prova arquitetura sozinho."
+    },
+    {
+      "item": "Compartimentação",
+      "resultado": "Verificado no estudo",
+      "valor": "Sem sobreposição de áreas entre ambientes",
+      "alcance": "Verificação planar por pavimento."
+    },
+    {
+      "item": "Implantação segundo o briefing",
+      "resultado": "Verificado no estudo",
+      "valor": {
+        "frente": 5.05,
+        "esquerda": 1.55,
+        "direita": 1.55,
+        "fundos": 1.5
+      },
+      "alcance": "Faces externas de paredes e pilares, sem atribuir aprovação legal ou incluir beirais nesses recuos."
+    },
+    {
+      "item": "Coberturas",
+      "resultado": "Verificado no estudo",
+      "valor": "Ambientes cobertos e pátio aberto",
+      "alcance": "União das projeções das lajes reais do IGZ; não certifica impermeabilização ou estrutura."
+    },
+    {
+      "item": "Altura livre da escada",
+      "resultado": "Verificado no estudo",
+      "valor": 2.752,
+      "alcance": "Metros mínimos no percurso amostrado, sob lajes e vigas representadas; projetos complementares posteriores podem alterar a folga."
+    },
+    {
+      "item": "Proteções desenhadas",
+      "resultado": "Verificado no estudo",
+      "valor": 5,
+      "alcance": "Panos fechados de 1,10 m; resistência, fixação e atendimento normativo dependem do executivo."
+    },
+    {
+      "item": "Escada",
+      "resultado": "Verificado no estudo",
+      "valor": {
+        "espelhos": 18,
+        "espelho": 0.175,
+        "piso": 0.28,
+        "blondel": 0.63,
+        "entre_corrimaos": 0.92
+      },
+      "alcance": "Atende aos valores adotados no briefing; os lances não atingem o ideal de 1,10 m entre corrimãos."
+    },
+    {
+      "item": "Áreas e vãos nominais",
+      "resultado": "Verificado no estudo",
+      "valor": {
+        "solo_natural": 127.23,
+        "percentual": 30.29,
+        "margem_m2": 1.23,
+        "vagas": 3
+      },
+      "alcance": "Solo natural exclui inclusive vagas inteiras e beirais; áreas de janela não equivalem à ventilação livre."
+    },
+    {
+      "item": "auditar-grafo.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-giros.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-percursos.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-banhos-terreos.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-banho-master.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-mobiliario.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-janelas-modelo.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    },
+    {
+      "item": "auditar-acesso-frontal.py",
+      "resultado": "Verificado no estudo",
+      "valor": "Passou nos cenários definidos",
+      "alcance": "Limitações descritas no próprio ensaio; nenhuma certificação normativa."
+    }
+  ],
+  "altura_livre_detalhe": [
+    {
+      "piso": "Piso de degrau inferior 1",
+      "altura_livre": 5.925,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 2",
+      "altura_livre": 5.75,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 3",
+      "altura_livre": 5.575,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 4",
+      "altura_livre": 5.4,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 5",
+      "altura_livre": 5.225,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 6",
+      "altura_livre": 5.05,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 7",
+      "altura_livre": 4.875,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau inferior 8",
+      "altura_livre": 4.7,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 1",
+      "altura_livre": 4.35,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 2",
+      "altura_livre": 4.175,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 3",
+      "altura_livre": 4.0,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 4",
+      "altura_livre": 3.825,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 5",
+      "altura_livre": 3.65,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 6",
+      "altura_livre": 3.475,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 7",
+      "altura_livre": 3.3,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "Piso de degrau superior 8",
+      "altura_livre": 3.125,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "patamar",
+      "altura_livre": 4.525,
+      "obstaculo": "Cobertura superior-escada"
+    },
+    {
+      "piso": "aproximacao",
+      "altura_livre": 2.752,
+      "obstaculo": "Viga proposta fundo-desembarque"
+    },
+    {
+      "piso": "desembarque",
+      "altura_livre": 2.95,
+      "obstaculo": "Cobertura superior-escada"
+    }
+  ],
+  "pendencias_externas": [
+    "Enquadramento cadastral/zoneamento, anexos vigentes e regulamento do condomínio",
+    "Projeto estrutural, fundações, impermeabilização, instalações e responsabilidade técnica",
+    "Acessibilidade integral e especificação de esquadrias/ferragens reais"
+  ]
+}

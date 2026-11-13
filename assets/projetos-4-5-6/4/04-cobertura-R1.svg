@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="420mm" viewBox="-2.4 -3.8 29.7 42">
+<rect x="-2.4" y="-3.8" width="29.7" height="42.0" fill="#fcfaf5" stroke="none" stroke-width="0.025"/>
+<text x="12.4" y="-2.8" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.4" fill="#283f35">PEDRINHAS · CASA DO ÁTRIO SOCIAL · PROJETO 04</text>
+<text x="12.4" y="-2.1" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.31" fill="#283f35">IMPLANTAÇÃO E COBERTURA · CAIMENTOS PROPOSTOS</text>
+<text x="12.4" y="-1.45" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Estudo arquitetônico R1 · 13/11/2026 · dimensões em metros</text>
+<rect x="0" y="0" width="12" height="35" fill="#e2ead9" stroke="#52695a" stroke-width="0.04"/>
+<rect x="1.45" y="4.95" width="9.100000000000001" height="5.3999999999999995" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="6.0" y="7.65" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">superior-frente</text>
+<text x="6.0" y="7.95" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +6.10 · caimento 1%</text>
+<line x1="1.85" y1="7.65" x2="10.350000000000001" y2="7.65" stroke="#62949a" stroke-width="0.05"/>
+<rect x="1.45" y="10.35" width="9.100000000000001" height="4.6" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="6.0" y="12.649999999999999" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">superior-escada</text>
+<text x="6.0" y="12.95" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +6.10 · caimento 1%</text>
+<line x1="1.85" y1="12.649999999999999" x2="10.350000000000001" y2="12.649999999999999" stroke="#62949a" stroke-width="0.05"/>
+<rect x="1.45" y="14.95" width="6.5" height="3.6999999999999993" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="4.7" y="16.799999999999997" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">superior-fundos</text>
+<text x="4.7" y="17.099999999999998" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +6.10 · caimento 1%</text>
+<line x1="4.7" y1="15.45" x2="4.7" y2="18.45" stroke="#62949a" stroke-width="0.05"/>
+<rect x="7.75" y="14.95" width="2.8000000000000007" height="4.0" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="9.15" y="16.95" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">cozinha</text>
+<text x="9.15" y="17.25" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +3.00 · caimento 1%</text>
+<line x1="8.15" y1="16.95" x2="10.350000000000001" y2="16.95" stroke="#62949a" stroke-width="0.05"/>
+<rect x="1.45" y="18.45" width="6.5" height="2.3000000000000007" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="4.7" y="19.6" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">ligacao</text>
+<text x="4.7" y="19.900000000000002" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +3.00 · caimento 1%</text>
+<line x1="4.7" y1="18.95" x2="4.7" y2="20.55" stroke="#62949a" stroke-width="0.05"/>
+<rect x="1.45" y="20.75" width="9.100000000000001" height="4.600000000000001" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="6.0" y="23.05" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">gourmet</text>
+<text x="6.0" y="23.35" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +3.00 · caimento 1%</text>
+<line x1="6.0" y1="21.25" x2="6.0" y2="25.150000000000002" stroke="#62949a" stroke-width="0.05"/>
+<rect x="5.85" y="25.7" width="4.700000000000001" height="5.400000000000002" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="8.2" y="28.4" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">quiosque</text>
+<text x="8.2" y="28.7" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +3.00 · caimento 1%</text>
+<line x1="6.25" y1="28.4" x2="10.350000000000001" y2="28.4" stroke="#62949a" stroke-width="0.05"/>
+<rect x="1.45" y="30.95" width="9.100000000000001" height="2.6750000000000007" fill="#e3dccd" stroke="#7f8c79" stroke-width="0.035"/>
+<text x="6.0" y="32.2875" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.19" fill="#283f35">apoio-servico</text>
+<text x="6.0" y="32.5875" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.16" fill="#283f35">base +3.00 · caimento 1%</text>
+<line x1="6.0" y1="31.45" x2="6.0" y2="33.425" stroke="#62949a" stroke-width="0.05"/>
+<line x1="0" y1="36" x2="12" y2="36" stroke="#748276" stroke-width="0.025"/><line x1="-0.08" y1="35.92" x2="0.08" y2="36.08" stroke="#52695a" stroke-width="0.02"/><line x1="11.92" y1="35.92" x2="12.08" y2="36.08" stroke="#52695a" stroke-width="0.02"/><text x="6.0" y="35.88" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.23" fill="#283f35">12,00</text>
+<line x1="-1" y1="0" x2="-1" y2="35" stroke="#748276" stroke-width="0.025"/><line x1="-1.08" y1="-0.08" x2="-0.92" y2="0.08" stroke="#52695a" stroke-width="0.02"/><line x1="-1.08" y1="34.92" x2="-0.92" y2="35.08" stroke="#52695a" stroke-width="0.02"/><text x="-1.0" y="17.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="0.23" fill="#283f35" transform="rotate(-90 -1.0 17.5)">35,00</text>
+<text x="14" y="2.0" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Lajes de cobertura com regularização inclinada.</text>
+<text x="14" y="2.7" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Coletores e condutores representados no modelo.</text>
+<text x="14" y="3.4" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Descarga prevista para sistema dentro do próprio lote.</text>
+<text x="14" y="4.1" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Não usar muro do vizinho como apoio nem drenagem.</text>
+<text x="14" y="4.8" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Pátio lateral aberto ao céu entre cozinha e gourmet.</text>
+<text x="14" y="5.5" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Vão da escada coberto no nível superior, sem laje no vazio.</text>
+<text x="14" y="6.199999999999999" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Cobertura da cozinha fechada nesta revisão.</text>
+<text x="14" y="6.8999999999999995" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Estrutura, impermeabilização e hidráulica: detalhar em executivo.</text>
+<text x="14" y="9.0" text-anchor="start" font-family="Arial,sans-serif" font-size="0.26" fill="#283f35">Recuos das faces de paredes/pilares:</text>
+<text x="14" y="9.7" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Frente: mínimo desenhado 5,05 m</text>
+<text x="14" y="10.299999999999999" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Laterais: mínimo desenhado 1,55 m</text>
+<text x="14" y="10.899999999999999" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Fundos do bloco de apoio: 1,50 m</text>
+<text x="14" y="11.5" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">Beirais tratados separadamente; validação municipal necessária.</text>
+<text x="14" y="14" text-anchor="start" font-family="Arial,sans-serif" font-size="0.23" fill="#283f35">Não foi confirmada a zona cadastral do lote.</text>
+<text x="14" y="14.7" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">LC 034/2022: art. 141 remete ao Anexo 13-A.</text>
+<text x="14" y="15.4" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">A implantação atende às premissas do briefing;</text>
+<text x="14" y="16.1" text-anchor="start" font-family="Arial,sans-serif" font-size="0.22" fill="#283f35">isso não equivale a aprovação urbanística.</text>
+</svg>

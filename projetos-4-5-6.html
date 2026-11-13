@@ -1,25 +1,75 @@
 <!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Casas 4, 5 e 6 · Pedrinhas</title>
+<title>Casas 4, 5 e 6 · Pedrinhas</title><meta name="description" content="Casa 4, Átrio Social: plantas cotadas, fotos interpretativas, modelo 3D navegável e arquivo IngeTrazo. Projetos 5 e 6 reservados.">
+<meta property="og:image" content="https://aquinogr.github.io/pedrinhas/assets/projetos-4-5-6/4/fotos/01.jpg">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232e4937'/%3E%3Cpath d='M12 31 32 14 52 31v21H12z' fill='%23e7deca'/%3E%3Cpath d='M28 52V35h9v17' fill='%23ae7655'/%3E%3C/svg%3E">
 <style>
-:root{--bg:#f6f2ea;--ink:#22302a;--mut:#5f6b62;--line:#ddd4c3;--card:#fffdf8;--acc:#2e4937}
+:root{--bg:#f6f2ea;--ink:#22302a;--mut:#5f6b62;--line:#ddd4c3;--card:#fffdf8;--acc:#2e4937;--warm:#ae7655}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,Segoe UI,Arial,sans-serif}
-.top{background:var(--acc);color:#fff}.top .in{max-width:1200px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;justify-content:space-between}
-.top b{font:600 18px Georgia,serif}.top nav{display:flex;flex-wrap:wrap;gap:6px}
+a{color:var(--acc)}
+.top{background:var(--acc);color:#fff}
+.top .in{max-width:1200px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;justify-content:space-between}
+.top b{font:600 18px Georgia,serif}
+.top nav{display:flex;flex-wrap:wrap;gap:6px}
 .top nav a{color:#fff;text-decoration:none;border:1px solid #ffffff55;border-radius:999px;padding:4px 12px;font-size:14px}
 .top nav a[aria-current=page]{background:#fff;color:var(--acc)}
-main{max-width:900px;margin:0 auto;padding:40px 16px}
-h1{font:600 34px Georgia,serif;margin:0 0 8px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:20px}
-.card{background:var(--card);border:1px dashed var(--line);border-radius:12px;padding:22px;text-align:center;color:var(--mut)}
-.card b{display:block;font:600 22px Georgia,serif;color:var(--ink)}
+main{max-width:1200px;margin:0 auto;padding:22px 16px 60px}
+h1{font:600 clamp(26px,4vw,38px) Georgia,serif;margin:0 0 4px}
+h2{font:600 24px Georgia,serif;margin:34px 0 10px}
+.eyebrow{text-transform:uppercase;letter-spacing:.08em;font-size:12px;color:var(--warm);font-weight:700}
+.lead{color:var(--mut);max-width:860px;margin:6px 0 16px}
+.choose{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 18px}
+.choose button{font:inherit;border:1px solid var(--line);background:var(--card);padding:8px 16px;border-radius:999px;cursor:pointer}
+.choose button[aria-pressed=true]{background:var(--acc);color:#fff;border-color:var(--acc)}
+.stage{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.stage img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.meta{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:8px 12px;font-size:14px;color:var(--mut)}
+.thumbs{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin-top:10px}
+[hidden]{display:none!important}
+.thumbs button{padding:0;border:2px solid transparent;border-radius:8px;overflow:hidden;cursor:pointer;background:none}
+.thumbs button[aria-pressed=true]{border-color:var(--acc)}
+.thumbs img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
+.thumbs span{display:block;font-size:13px;padding:4px 6px;color:var(--ink);background:var(--card)}
+.toggle{font:inherit;font-size:14px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 12px;cursor:pointer}
+.grid2{display:grid;grid-template-columns:1.1fr .9fr;gap:22px;align-items:start}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.card ul{margin:6px 0 0;padding-left:20px}
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:8px 0 0}
+.nums div{background:#fff;border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.nums b{display:block;font:600 22px Georgia,serif}
+.nums small{color:var(--mut)}
+.plan img{width:100%;height:auto;border:1px solid var(--line);border-radius:10px;cursor:zoom-in;background:#fff}
+.btn{display:inline-block;background:var(--acc);color:#fff;text-decoration:none;border-radius:999px;padding:9px 18px;font-weight:600;border:0;cursor:pointer;font-size:15px}
+.btn.alt{background:#fff;color:var(--acc);border:1px solid var(--acc)}
+.downloads{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}
+.viewer{position:relative;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#e9e2d4;aspect-ratio:16/10}
+.viewer iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.viewer .cover{position:absolute;inset:0;display:flex;flex-direction:column;gap:10px;align-items:center;justify-content:center;text-align:center;padding:16px}
+.viewer .cover img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.55}
+.viewer .cover *{position:relative}
+.note{font-size:14px;color:var(--mut)}
+.checks li{margin:3px 0}
+@media (max-width:860px){.grid2{grid-template-columns:1fr}.viewer{aspect-ratio:4/5}}
+
+button:focus-visible,a:focus-visible{outline:3px solid #ae7655;outline-offset:4px}.plan-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.plan-grid h3{font:21px Georgia,serif;margin:12px 0}.plan img{aspect-ratio:297/420;object-fit:contain}.pending{padding:30px 20px;border:1px dashed var(--line);border-radius:12px;background:var(--card);margin:25px 0}.pending h2{margin-top:0}.plan-details{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0}.plan-details img{width:100%;height:250px;object-fit:contain;border:1px solid var(--line);background:#fff}.bottom{background:var(--acc);color:#fff;padding:24px 16px;margin-top:30px;font-size:13px}.bottom .in{max-width:1200px;margin:auto}.minor{font-size:12px;color:var(--mut)}.top nav a,.btn{white-space:normal}.tab-status{font-size:11px;opacity:.85;display:block}.notice{border-left:3px solid var(--warm);padding:12px 16px;background:#eee7da;color:var(--ink);font-size:13px}.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:13px}th,td{text-align:left;padding:10px;border-bottom:1px solid var(--line)}th{background:#e8ebdf}@media(max-width:620px){.plan-grid,.plan-details{grid-template-columns:1fr}.choose button{flex:1;min-width:95px;padding:8px}.thumbs{grid-template-columns:1fr 1fr}.viewer{aspect-ratio:4/5}.meta{font-size:13px}}
 </style></head><body>
 <div class="top"><div class="in"><b>Casas de campo · Pedrinhas</b>
 <nav aria-label="Projetos"><a href="index.html">Projetos 1 · 2 · 3</a><a href="projetos-4-5-6.html" aria-current="page">Projetos 4 · 5 · 6</a><a href="projetos-7-8-9.html">Projetos 7 · 8 · 9</a></nav></div></div>
-<main>
-<h1>Projetos 4, 5 e 6</h1>
-<p style="color:var(--mut)">Espaço reservado. Estes três projetos estão em preparação e serão publicados aqui.</p>
-<div class="grid"><div class="card"><b>Casa 4</b>em preparação</div><div class="card"><b>Casa 5</b>em preparação</div><div class="card"><b>Casa 6</b>em preparação</div></div>
-<p style="margin-top:26px"><a href="projetos-7-8-9.html">Ver os projetos 7, 8 e 9 →</a></p>
-</main></body></html>
+<main><div class="eyebrow">IngeTrazo + Blender · estudo preliminar</div><h1 id="title">Casa 4 — Átrio Social</h1><p class="lead" id="subtitle">Cinco quartos com banhos privativos ou reversíveis, varanda frontal e lazer ao fundo. Piscina pequena junto ao quiosque, mesa grande e apoio concentrado nos fundos.</p>
+<div class="choose" role="group" aria-label="Escolher casa"><button type="button" data-n="4" aria-pressed="true">Casa 4 · Átrio Social</button><button type="button" data-n="5" aria-pressed="false">Casa 5<span class="tab-status">em preparação</span></button><button type="button" data-n="6" aria-pressed="false">Casa 6<span class="tab-status">em preparação</span></button></div>
+<section id="pending" class="pending" hidden><h2 id="pending-title">Casa 5</h2><p>Espaço reservado para a próxima proposta. A distribuição, o modelo e as imagens deste projeto ainda não foram publicados.</p><p><button class="btn" type="button" id="back4">Ver a Casa 4</button> <a href="projetos-7-8-9.html">Conhecer as casas 7, 8 e 9 →</a></p></section>
+<div id="project4">
+<section id="fotos" aria-labelledby="t-fotos"><h2 id="t-fotos">Fotos e vistas do projeto</h2><figure class="stage" style="margin:0"><a id="full" target="_blank" rel="noopener"><img id="photo" alt="Casa do Átrio Social" width="1024" height="687"></a><figcaption class="meta"><span id="caption"></span><span><button class="toggle" id="cmp" type="button">Ver o modelo 3D desta vista</button></span></figcaption></figure><div class="thumbs" id="thumbs"></div><p class="note">Imagens fotográficas geradas no Gemini a partir dos renders do modelo IngeTrazo/Blender. Piscina, volumes, grandes vãos e acessos foram comparados visualmente; materiais, paisagismo e pequenos detalhes são interpretativos. Prévias de 1024 × 687 px, não originais 4K. Use o botão para comparar com a geometria de referência. A posição e a quantidade dos pisantes nas fotos são interpretativas; o trajeto conferido está no modelo e nas plantas.</p></section>
+<section class="grid2"><div><h2>Plantas cotadas · IngeTrazo</h2><div class="plan-grid"><article><h3>Térreo</h3><a class="plan" href="assets/projetos-4-5-6/4/04-terreo-R1.svg" target="_blank" rel="noopener"><img src="assets/projetos-4-5-6/4/04-terreo-R1.svg" alt="Planta humanizada e cotada do térreo" loading="lazy"></a></article><article><h3>Superior</h3><a class="plan" href="assets/projetos-4-5-6/4/04-superior-R1.svg" target="_blank" rel="noopener"><img src="assets/projetos-4-5-6/4/04-superior-R1.svg" alt="Planta humanizada e cotada do pavimento superior" loading="lazy"></a></article></div><p class="note">Rua na parte superior destas pranchas. Clique para ampliar. Plantas A3 em escala 1:100 quando impressas em tamanho real, sem ajuste; cotas principais entre eixos, dimensões internas e áreas úteis no quadro lateral.</p><div class="downloads"><a class="btn alt" href="assets/projetos-4-5-6/4/04-pranchas-R1.pdf" target="_blank" rel="noopener">Quatro pranchas em PDF A3</a><a class="btn alt" href="projeto-4.html#plantas">Ver plantas humanizadas 3D e detalhes</a></div></div><div><h2>Resumo</h2><div class="card"><div class="nums"><div><b>316,60 m²</b><small>área construída estimada</small></div><div><b>5 quartos</b><small>3 térreos + 2 superiores</small></div><div><b>2,50 × 4 m</b><small>piscina pequena</small></div><div><b>30,29%</b><small>solo natural estimado</small></div></div><ul><li>Térreo: estar, três quartos atendidos por banhos reversíveis através de vestíbulos, cozinha e ligação coberta ao gourmet.</li><li>Superior: master com closet e banho, escritório e quinto quarto com banho, além da varanda frontal.</li><li>Lazer: mesa de 10 lugares no gourmet e 8 no quiosque; piscina ao lado, churrasqueira, pia e lavabo próximo.</li><li>Lavanderia, depósito, lavabo e apoio alinhados no fundo. Três vagas descobertas de 2,50 × 5,00 m na frente.</li></ul></div><h2>Revisão documentada</h2><div class="card"><ul class="checks"><li>Percursos da casa ao lazer, dos quartos aos banhos e entre entrada, escada e varanda ensaiados com corpo de 60 cm.</li><li>Escada em U: 18 espelhos de 17,5 cm, pisos de 28 cm, patamar, corrimãos e guarda-corpos de 1,10 m representados. Lances nominais de 1,10 m, cerca de 0,92 m entre corrimãos.</li><li>Altura livre amostrada na escada: pelo menos 2,75 m sob os elementos modelados. Pilares nos dois lados da varanda.</li><li>Janelas abrindo para fora; pisantes laterais afastados das folhas. Faixa secundária de 60 cm ensaiada sem interseção com os obstáculos representados.</li><li>TV alinhada ao sofá; giros de portas, louças, armários, mesas e cadeiras conferidos nos cenários documentados.</li><li>Coberturas completas sobre os ambientes; pátio-jardim aberto entre cozinha e gourmet.</li></ul><p class="note">São verificações de estudo, não laudo ou certificação. A faixa lateral é predominantemente gramada, não uma rota acessível pavimentada.</p></div></div></section>
+<section id="modelo" aria-labelledby="t-3d"><h2 id="t-3d">3D navegável</h2><div class="viewer" id="viewer"><div class="cover"><img src="assets/projetos-4-5-6/4/fotos/01-modelo3d.jpg" alt="Vista do modelo da piscina e do quiosque"><button class="btn" id="open3d" type="button">Abrir o 3D navegável</button><span class="note" style="background:#fffdf8dd;padding:5px 9px;border-radius:6px">Modelo mobiliado do IngeTrazo/Blender (10,25 MB). Gire, aproxime e explore os pavimentos e a escada.</span></div></div><p class="note"><a href="assets/projetos-4-5-6/4/modelo-3d.html" target="_blank" rel="noopener">Abrir o 3D em tela cheia →</a></p></section>
+<section id="detalhes"><h2>Cobertura, escada e premissas</h2><div class="plan-details"><a href="assets/projetos-4-5-6/4/04-cobertura-R1.svg" target="_blank" rel="noopener"><img src="assets/projetos-4-5-6/4/04-cobertura-R1.svg" alt="Implantação e coberturas" loading="lazy"></a><a href="assets/projetos-4-5-6/4/04-corte-escada-R1.svg" target="_blank" rel="noopener"><img src="assets/projetos-4-5-6/4/04-corte-escada-R1.svg" alt="Corte desenvolvido da escada" loading="lazy"></a></div><div class="notice"><strong>Estudo preliminar, não usar para obra.</strong> A implantação segue as premissas do briefing (5 m frontais e 1,50 m laterais/fundos). O zoneamento cadastral e as regras do condomínio não foram confirmados. Se o lote estiver na Zona de Transição 02, os recuos específicos da LC 034/2022 exigem rever esta implantação. Executivo, estrutura, instalações, proteção da piscina e licenciamento dependem de profissionais habilitados.</div><p><a class="btn alt" href="projeto-4.html#areas">Quadros de áreas, conforto, legislação e memorial completo →</a></p></section>
+<section id="arquivos"><h2>Arquivos</h2><div class="downloads"><a class="btn" href="assets/projetos-4-5-6/4/CASA-04-R1-MOBILIADA.igz" download>IngeTrazo editável (.igz)</a><a class="btn alt" href="assets/projetos-4-5-6/4/CASA-04-R1.glb" download>Modelo mobiliado (.glb)</a><a class="btn alt" href="assets/projetos-4-5-6/4/04-pranchas-R1.pdf" download>Pranchas A3 (.pdf)</a><a class="btn alt" href="assets/projetos-4-5-6/4/MEMORIAL-04-R1.md" download>Memorial e decisões</a><a class="btn alt" href="assets/projetos-4-5-6/4/REVISAO-04-R1.json" target="_blank" rel="noopener">Auditorias geométricas</a><a class="btn alt" href="assets/projetos-4-5-6/4/CASA04-OFFLINE.html" download>Apresentação offline</a><a class="btn alt" href="assets/projetos-4-5-6/4/FONTES-04-R1.zip" download>Fontes e continuidade (.zip)</a></div><p class="note">Móveis Poly Haven CC0; veículos Scopia CC BY 3.0, do acervo Sweet Home 3D, redimensionados. A versão IGZ contém móveis/carros simplificados para desempenho, com texturas incorporadas. <a href="assets/projetos-4-5-6/4/CREDITOS-ACERVO-3D.md">Créditos do acervo</a>.</p></section>
+</div></main><footer class="bottom"><div class="in">Pedrinhas · Casa 4 / Átrio Social · revisão R1-P1 · estudo preliminar · Projetos 5 e 6 reservados.</div></footer>
+<script>
+(()=>{'use strict';let current='4',view=0,model=false;const $=s=>document.querySelector(s),base='assets/projetos-4-5-6/4/';const V=[['01','Piscina, quiosque e apoio nos fundos'],['02','Fachada, varanda e três vagas']];
+function setPhoto(i){view=i;const path=base+'fotos/'+V[i][0]+(model?'-modelo3d':'')+'.jpg';$('#photo').src=path;$('#full').href=path;$('#photo').alt='Casa 4 · '+V[i][1]+(model?' — render do modelo':' — interpretação fotográfica');$('#caption').textContent='Casa 4 · '+V[i][1]+(model?' (modelo geométrico)':' (imagem interpretativa por IA)');$('#cmp').textContent=model?'Ver a imagem fotográfica':'Ver o modelo 3D desta vista';document.querySelectorAll('#thumbs button').forEach((b,k)=>b.setAttribute('aria-pressed',String(i===k)))}
+$('#thumbs').replaceChildren(...V.map((v,i)=>{const b=document.createElement('button');b.type='button';b.innerHTML='<img src="'+base+'fotos/'+v[0]+'-thumb.jpg" alt=""><span>'+v[1]+'</span>';b.onclick=()=>setPhoto(i);return b}));$('#cmp').onclick=()=>{model=!model;setPhoto(view)};
+function show(n,push){if(!['4','5','6'].includes(n))n='4';current=n;$('#project4').hidden=n!=='4';$('#pending').hidden=n==='4';$('#pending-title').textContent='Casa '+n+' · em preparação';$('#title').textContent=n==='4'?'Casa 4 — Átrio Social':'Casa '+n+' — espaço reservado';$('#subtitle').hidden=n!=='4';document.title='Casa '+n+' · Pedrinhas';document.querySelectorAll('[data-n]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.n===n)));if(push){const u=new URL(location.href);u.searchParams.set('projeto',n);history.replaceState(null,'',u)}}
+document.querySelectorAll('[data-n]').forEach(b=>b.onclick=()=>show(b.dataset.n,true));$('#back4').onclick=()=>show('4',true);$('#open3d').onclick=()=>{const f=document.createElement('iframe');f.title='Modelo 3D navegável da Casa 4';f.src=base+'modelo-3d.html';f.setAttribute('allow','fullscreen');$('#viewer').replaceChildren(f)};setPhoto(0);show(new URLSearchParams(location.search).get('projeto')||'4',false);
+})();
+</script></body></html>

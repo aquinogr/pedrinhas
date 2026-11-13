@@ -1,0 +1,17 @@
+{
+  "revisao": "R1-P1",
+  "faixa_x": [
+    11.2,
+    11.8
+  ],
+  "faixa_y": [
+    4.15,
+    33.4
+  ],
+  "largura_ensaio": 0.6,
+  "altura_ensaio": 2.1,
+  "folhas_laterais_conferidas": 6,
+  "menor_distancia_folha_faixa": 0.155,
+  "resultado": "Faixa sem interseção com folhas, paredes, móveis e portas abertas representados",
+  "limites": "Rota secundária em gramado; não é rota acessível pavimentada. Cercamentos futuros, vegetação, ferragens e uso simultâneo real exigem compatibilização."
+}

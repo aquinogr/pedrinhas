@@ -1,0 +1,370 @@
+{
+  "terreno": 420.0,
+  "construida_estimada": {
+    "terreo": 216.819,
+    "superior": 99.78
+  },
+  "util_estimada": {
+    "terreo": 184.052,
+    "superior": 89.088
+  },
+  "projecao_estimada": 216.819,
+  "ocupacao_estimada_percentual": 51.62,
+  "solo_natural_conservador": 127.23,
+  "solo_natural_percentual": 30.29,
+  "margem_solo_natural": 1.23,
+  "piscina_agua": 10.0,
+  "vagas_previstas": 3,
+  "vagas_referencia_briefing": 3,
+  "ambientes": [
+    {
+      "nivel": "terreo",
+      "id": "estar",
+      "nome": "Estar e entrada",
+      "largura_util": 4.449999999999999,
+      "profundidade_util": 4.85,
+      "area_util": 21.5813
+    },
+    {
+      "nivel": "terreo",
+      "id": "q1",
+      "nome": "Quarto 1",
+      "largura_util": 3.9499999999999997,
+      "profundidade_util": 3.0500000000000003,
+      "area_util": 12.0419
+    },
+    {
+      "nivel": "terreo",
+      "id": "v1",
+      "nome": "Vestíbulo 1",
+      "largura_util": 1.75,
+      "profundidade_util": 1.6500000000000001,
+      "area_util": 2.8825
+    },
+    {
+      "nivel": "terreo",
+      "id": "b1",
+      "nome": "Banho 1",
+      "largura_util": 2.0500000000000003,
+      "profundidade_util": 1.6500000000000001,
+      "area_util": 3.3819
+    },
+    {
+      "nivel": "terreo",
+      "id": "q2",
+      "nome": "Quarto 2",
+      "largura_util": 3.5,
+      "profundidade_util": 3.45,
+      "area_util": 12.0744
+    },
+    {
+      "nivel": "terreo",
+      "id": "b2",
+      "nome": "Banho 2",
+      "largura_util": 2.0500000000000003,
+      "profundidade_util": 1.6500000000000001,
+      "area_util": 3.3806
+    },
+    {
+      "nivel": "terreo",
+      "id": "v2",
+      "nome": "Vestíbulo 2",
+      "largura_util": 1.3,
+      "profundidade_util": 1.6500000000000001,
+      "area_util": 2.145
+    },
+    {
+      "nivel": "terreo",
+      "id": "q3",
+      "nome": "Quarto 3",
+      "largura_util": 3.5,
+      "profundidade_util": 3.45,
+      "area_util": 12.07
+    },
+    {
+      "nivel": "terreo",
+      "id": "b3",
+      "nome": "Banho 3",
+      "largura_util": 2.0500000000000003,
+      "profundidade_util": 1.6500000000000001,
+      "area_util": 3.3819
+    },
+    {
+      "nivel": "terreo",
+      "id": "v3",
+      "nome": "Vestíbulo 3",
+      "largura_util": 1.3,
+      "profundidade_util": 1.6500000000000001,
+      "area_util": 2.145
+    },
+    {
+      "nivel": "terreo",
+      "id": "circulacao",
+      "nome": "Circulação",
+      "largura_util": 1.1,
+      "profundidade_util": 10.65,
+      "area_util": 11.7038
+    },
+    {
+      "nivel": "terreo",
+      "id": "hall",
+      "nome": "Hall da escada",
+      "largura_util": 1.05,
+      "profundidade_util": 3.5,
+      "area_util": 3.6738
+    },
+    {
+      "nivel": "terreo",
+      "id": "escada",
+      "nome": "Escada em U",
+      "largura_util": 2.45,
+      "profundidade_util": 3.5,
+      "area_util": 8.5738
+    },
+    {
+      "nivel": "terreo",
+      "id": "cozinha",
+      "nome": "Cozinha",
+      "largura_util": 3.65,
+      "profundidade_util": 4.85,
+      "area_util": 17.6913
+    },
+    {
+      "nivel": "terreo",
+      "id": "ligacao",
+      "nome": "Ligação coberta ao gourmet",
+      "largura_util": 1.1,
+      "profundidade_util": 2.0,
+      "area_util": 2.1994
+    },
+    {
+      "nivel": "terreo",
+      "id": "gourmet",
+      "nome": "Gourmet de refeições",
+      "largura_util": 8.549999999999999,
+      "profundidade_util": 4.05,
+      "area_util": 34.6213
+    },
+    {
+      "nivel": "terreo",
+      "id": "quiosque",
+      "nome": "Quiosque e mesa",
+      "largura_util": 4.1499999999999995,
+      "profundidade_util": 4.85,
+      "area_util": 21.46
+    },
+    {
+      "nivel": "terreo",
+      "id": "lavabo",
+      "nome": "Lavabo externo",
+      "largura_util": 1.6500000000000001,
+      "profundidade_util": 2.1750000000000003,
+      "area_util": 3.5888
+    },
+    {
+      "nivel": "terreo",
+      "id": "apoio",
+      "nome": "Apoio do quiosque",
+      "largura_util": 2.35,
+      "profundidade_util": 2.1750000000000003,
+      "area_util": 5.1113
+    },
+    {
+      "nivel": "terreo",
+      "id": "lavanderia",
+      "nome": "Lavanderia",
+      "largura_util": 2.5500000000000003,
+      "profundidade_util": 2.1750000000000003,
+      "area_util": 5.5463
+    },
+    {
+      "nivel": "terreo",
+      "id": "deposito",
+      "nome": "Depósito",
+      "largura_util": 1.55,
+      "profundidade_util": 2.1750000000000003,
+      "area_util": 3.3713
+    },
+    {
+      "nivel": "superior",
+      "id": "varanda",
+      "nome": "Varanda frontal para o rio",
+      "largura_util": 8.549999999999999,
+      "profundidade_util": 2.0500000000000003,
+      "area_util": 19.12
+    },
+    {
+      "nivel": "superior",
+      "id": "master",
+      "nome": "Quarto master",
+      "largura_util": 4.449999999999999,
+      "profundidade_util": 3.6,
+      "area_util": 16.02
+    },
+    {
+      "nivel": "superior",
+      "id": "escritorio",
+      "nome": "Escritório",
+      "largura_util": 3.9499999999999997,
+      "profundidade_util": 2.65,
+      "area_util": 10.4675
+    },
+    {
+      "nivel": "superior",
+      "id": "banho-master",
+      "nome": "Banho master",
+      "largura_util": 2.0500000000000003,
+      "profundidade_util": 2.15,
+      "area_util": 4.4075
+    },
+    {
+      "nivel": "superior",
+      "id": "closet",
+      "nome": "Closet",
+      "largura_util": 2.25,
+      "profundidade_util": 2.15,
+      "area_util": 4.8375
+    },
+    {
+      "nivel": "superior",
+      "id": "q5",
+      "nome": "Quarto 5",
+      "largura_util": 4.449999999999999,
+      "profundidade_util": 3.2,
+      "area_util": 14.24
+    },
+    {
+      "nivel": "superior",
+      "id": "banho-5",
+      "nome": "Banho 5",
+      "largura_util": 2.15,
+      "profundidade_util": 1.55,
+      "area_util": 3.3325
+    },
+    {
+      "nivel": "superior",
+      "id": "vestibulo-5",
+      "nome": "Vestíbulo 5",
+      "largura_util": 2.15,
+      "profundidade_util": 1.55,
+      "area_util": 3.3325
+    },
+    {
+      "nivel": "superior",
+      "id": "hall-superior",
+      "nome": "Circulação superior",
+      "largura_util": 1.35,
+      "profundidade_util": 8.15,
+      "area_util": 11.0025
+    },
+    {
+      "nivel": "superior",
+      "id": "escada-superior",
+      "nome": "Vão da escada",
+      "largura_util": 2.45,
+      "profundidade_util": 3.5,
+      "area_util": 0
+    },
+    {
+      "nivel": "superior",
+      "id": "chegada-escada",
+      "nome": "Chegada da escada",
+      "largura_util": 2.45,
+      "profundidade_util": 0.9500000000000001,
+      "area_util": 2.3275
+    }
+  ],
+  "janelas": [
+    {
+      "ambiente": "Estar e entrada",
+      "vao_nominal": 3.75,
+      "referencia_briefing": 3.597,
+      "margem": 0.153,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Quarto 1",
+      "vao_nominal": 2.61,
+      "referencia_briefing": 2.007,
+      "margem": 0.603,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Banho 1",
+      "vao_nominal": 0.52,
+      "referencia_briefing": 0.423,
+      "margem": 0.097,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Quarto 2",
+      "vao_nominal": 2.61,
+      "referencia_briefing": 2.012,
+      "margem": 0.598,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Banho 2",
+      "vao_nominal": 0.52,
+      "referencia_briefing": 0.423,
+      "margem": 0.097,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Quarto 3",
+      "vao_nominal": 2.61,
+      "referencia_briefing": 2.012,
+      "margem": 0.598,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Banho 3",
+      "vao_nominal": 0.52,
+      "referencia_briefing": 0.423,
+      "margem": 0.097,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Lavabo externo",
+      "vao_nominal": 0.52,
+      "referencia_briefing": 0.449,
+      "margem": 0.071,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Quarto master",
+      "vao_nominal": 6.57,
+      "referencia_briefing": 2.67,
+      "margem": 3.9,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Escritório",
+      "vao_nominal": 5.64,
+      "referencia_briefing": 1.745,
+      "margem": 3.895,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Banho master",
+      "vao_nominal": 0.63,
+      "referencia_briefing": 0.551,
+      "margem": 0.079,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Quarto 5",
+      "vao_nominal": 2.61,
+      "referencia_briefing": 2.373,
+      "margem": 0.237,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    },
+    {
+      "ambiente": "Banho 5",
+      "vao_nominal": 0.52,
+      "referencia_briefing": 0.417,
+      "margem": 0.103,
+      "observacao": "Área geométrica; não é ventilação livre nem confirmação do código."
+    }
+  ]
+}

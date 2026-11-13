@@ -9,5 +9,6 @@ As imagens fotorrealistas são ilustrações geradas por IA a partir do projeto;
 ## Projetos
 
 - **1, 2 e 3** (Edícula, Pátio, Jardim): página principal.
-- **4, 5 e 6**: em preparação (`projetos-4-5-6.html`).
+- **4 — Átrio Social**: `projetos-4-5-6.html?projeto=4`, com detalhamento em `projeto-4.html`, plantas cotadas, fotos interpretativas, 3D e arquivo IngeTrazo.
+- **5 e 6**: espaços reservados na mesma página, ainda em preparação.
 - **7, 8 e 9** (Casa em U, rústica de campo): `projetos-7-8-9.html` — fotos ultrarrealistas a partir do modelo 3D, plantas do Sweet Home 3D, 3D navegável e arquivos `.sh3d` em `assets/projetos-7-8-9/`.

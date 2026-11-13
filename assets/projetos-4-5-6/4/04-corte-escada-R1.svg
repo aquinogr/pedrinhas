@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650">
+<rect width="1200" height="650" fill="#fcfaf5"/>
+<text x="45" y="45" font-family="Arial" font-size="24" fill="#314c3b">ESCADA EM U · CORTE DESENVOLVIDO ESQUEMÁTICO</text>
+<text x="45" y="75" font-family="Arial" font-size="15" fill="#314c3b">Os dois lances aparecem desenvolvidos; não é um único plano de corte real.</text>
+<line x1="73.6" y1="545" x2="188.0" y2="545" stroke="#6b7768" stroke-width="2"/>
+<line x1="611.72" y1="267.8" x2="812.8" y2="267.8" stroke="#6b7768" stroke-width="2"/>
+<line x1="73.6" y1="8.200000000000045" x2="812.8" y2="8.200000000000045" stroke="#6b7768" stroke-width="2"/>
+<line x1="100" y1="545" x2="100" y2="529.6" stroke="#6b7768" stroke-width="2"/>
+<line x1="100" y1="529.6" x2="124.64" y2="529.6" stroke="#6b7768" stroke-width="2"/>
+<line x1="124.64" y1="529.6" x2="124.64" y2="514.2" stroke="#6b7768" stroke-width="2"/>
+<line x1="124.64" y1="514.2" x2="149.28" y2="514.2" stroke="#6b7768" stroke-width="2"/>
+<line x1="149.28" y1="514.2" x2="149.28" y2="498.8" stroke="#6b7768" stroke-width="2"/>
+<line x1="149.28" y1="498.8" x2="173.92000000000002" y2="498.8" stroke="#6b7768" stroke-width="2"/>
+<line x1="173.92000000000002" y1="498.8" x2="173.92000000000002" y2="483.4" stroke="#6b7768" stroke-width="2"/>
+<line x1="173.92000000000002" y1="483.4" x2="198.56" y2="483.4" stroke="#6b7768" stroke-width="2"/>
+<line x1="198.56" y1="483.4" x2="198.56" y2="468.0" stroke="#6b7768" stroke-width="2"/>
+<line x1="198.56" y1="468.0" x2="223.20000000000002" y2="468.0" stroke="#6b7768" stroke-width="2"/>
+<line x1="223.20000000000002" y1="468.0" x2="223.20000000000002" y2="452.6" stroke="#6b7768" stroke-width="2"/>
+<line x1="223.20000000000002" y1="452.6" x2="247.84" y2="452.6" stroke="#6b7768" stroke-width="2"/>
+<line x1="247.84" y1="452.6" x2="247.84" y2="437.2" stroke="#6b7768" stroke-width="2"/>
+<line x1="247.84" y1="437.2" x2="272.48" y2="437.2" stroke="#6b7768" stroke-width="2"/>
+<line x1="272.48" y1="437.2" x2="272.48" y2="421.79999999999995" stroke="#6b7768" stroke-width="2"/>
+<line x1="272.48" y1="421.79999999999995" x2="297.12" y2="421.79999999999995" stroke="#6b7768" stroke-width="2"/>
+<line x1="297.12" y1="421.79999999999995" x2="297.12" y2="406.4" stroke="#6b7768" stroke-width="2"/>
+<line x1="297.12" y1="406.4" x2="414.6" y2="406.4" stroke="#6b7768" stroke-width="2"/>
+<line x1="414.6" y1="406.4" x2="414.6" y2="391.0" stroke="#6b7768" stroke-width="2"/>
+<line x1="414.6" y1="391.0" x2="439.24" y2="391.0" stroke="#6b7768" stroke-width="2"/>
+<line x1="439.24" y1="391.0" x2="439.24" y2="375.59999999999997" stroke="#6b7768" stroke-width="2"/>
+<line x1="439.24" y1="375.59999999999997" x2="463.88000000000005" y2="375.59999999999997" stroke="#6b7768" stroke-width="2"/>
+<line x1="463.88000000000005" y1="375.59999999999997" x2="463.88000000000005" y2="360.2" stroke="#6b7768" stroke-width="2"/>
+<line x1="463.88000000000005" y1="360.2" x2="488.5200000000001" y2="360.2" stroke="#6b7768" stroke-width="2"/>
+<line x1="488.5200000000001" y1="360.2" x2="488.5200000000001" y2="344.8" stroke="#6b7768" stroke-width="2"/>
+<line x1="488.5200000000001" y1="344.8" x2="513.1600000000001" y2="344.8" stroke="#6b7768" stroke-width="2"/>
+<line x1="513.1600000000001" y1="344.8" x2="513.1600000000001" y2="329.40000000000003" stroke="#6b7768" stroke-width="2"/>
+<line x1="513.1600000000001" y1="329.40000000000003" x2="537.8000000000002" y2="329.40000000000003" stroke="#6b7768" stroke-width="2"/>
+<line x1="537.8000000000002" y1="329.40000000000003" x2="537.8000000000002" y2="314.0" stroke="#6b7768" stroke-width="2"/>
+<line x1="537.8000000000002" y1="314.0" x2="562.4400000000002" y2="314.0" stroke="#6b7768" stroke-width="2"/>
+<line x1="562.4400000000002" y1="314.0" x2="562.4400000000002" y2="298.6" stroke="#6b7768" stroke-width="2"/>
+<line x1="562.4400000000002" y1="298.6" x2="587.0800000000002" y2="298.6" stroke="#6b7768" stroke-width="2"/>
+<line x1="587.0800000000002" y1="298.6" x2="587.0800000000002" y2="283.20000000000005" stroke="#6b7768" stroke-width="2"/>
+<line x1="587.0800000000002" y1="283.20000000000005" x2="611.7200000000003" y2="283.20000000000005" stroke="#6b7768" stroke-width="2"/>
+<line x1="611.7200000000003" y1="283.20000000000005" x2="611.7200000000003" y2="267.80000000000007" stroke="#6b7768" stroke-width="2"/>
+<line x1="100" y1="448.64" x2="297.12" y2="325.44" stroke="#b38252" stroke-width="4"/>
+<line x1="414.6" y1="310.04" x2="611.72" y2="186.83999999999997" stroke="#b38252" stroke-width="4"/>
+<text x="50" y="575" font-family="Arial" font-size="16" fill="#314c3b">±0,00 · térreo</text>
+<text x="730" y="280" font-family="Arial" font-size="16" fill="#314c3b">+3,15 · superior</text>
+<text x="700" y="120" font-family="Arial" font-size="16" fill="#314c3b">+6,10 · face inferior da cobertura</text>
+<text x="75" y="615" font-family="Arial" font-size="17" fill="#314c3b">18 × 0,175 = 3,15 m · 16 pisos de 0,28 m + patamar · 2e+p = 0,63 m</text>
+<text x="760" y="360" font-family="Arial" font-size="16" fill="#314c3b">Guarda-corpo: 1,10 m</text>
+<text x="760" y="390" font-family="Arial" font-size="16" fill="#314c3b">Lance nominal: 1,10 m</text>
+<text x="760" y="420" font-family="Arial" font-size="16" fill="#314c3b">Entre corrimãos: ~0,92 m</text>
+<text x="760" y="450" font-family="Arial" font-size="16" fill="#314c3b">Altura livre verificada ≥2,10 m</text>
+<text x="760" y="480" font-family="Arial" font-size="16" fill="#314c3b">nos elementos representados.</text>
+</svg>

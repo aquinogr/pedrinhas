@@ -1,0 +1,163 @@
+{
+  "projeto": 4,
+  "revisao": "R1-P1",
+  "escopo": "Estudo preliminar; publicação da apresentação autorizada",
+  "base_commit": "585936701716c23b7b03043e17e5aa0c2337df1c",
+  "arquivos": [
+    {
+      "arquivo": "04-cobertura-R1.svg",
+      "bytes": 8407,
+      "sha256": "afd93a7c4efae45caeabd31e18d0f2a5bf2f82f0b6fe06c5048e6968dc3f58ee"
+    },
+    {
+      "arquivo": "04-corte-escada-R1.svg",
+      "bytes": 5608,
+      "sha256": "9752b49767e6236a56204c99750bc35b024acfd54cbc83568c23d552a4930892"
+    },
+    {
+      "arquivo": "04-fachada-R1.jpg",
+      "bytes": 130172,
+      "sha256": "89d13a4b6b2e72f63856d14241871bbbd82d087e30f08605fa6470fb3855f371"
+    },
+    {
+      "arquivo": "04-lazer-R1.jpg",
+      "bytes": 125726,
+      "sha256": "c06740553233d65901cc2dea3e609fca268bab16aeafaad8759deba1ce0053e3"
+    },
+    {
+      "arquivo": "04-pranchas-R1.pdf",
+      "bytes": 353478,
+      "sha256": "2b24b731309bb4f856e4dcd31078ce459636331d294142360d738dd1bf9f6b78"
+    },
+    {
+      "arquivo": "04-quadros-R1.html",
+      "bytes": 19666,
+      "sha256": "011060fecfd1c6964ad3178c4a21223411723821aeeecd397f6590facdba3952"
+    },
+    {
+      "arquivo": "04-superior-3D-R1.jpg",
+      "bytes": 112185,
+      "sha256": "4dc3815568719d916212aa3704b61813a4b94a460ac573f1e31560c593ae44ec"
+    },
+    {
+      "arquivo": "04-superior-R1.svg",
+      "bytes": 28826,
+      "sha256": "1b4de45118c2308e2bdd15c46d610abb16f572482436684b8c629f3de3731f37"
+    },
+    {
+      "arquivo": "04-terreo-3D-R1.jpg",
+      "bytes": 147331,
+      "sha256": "b00a59cb48b532fd4224afc1d879511adec197500efba7181bf834221123ae6f"
+    },
+    {
+      "arquivo": "04-terreo-R1.svg",
+      "bytes": 53948,
+      "sha256": "1c08126e4285a6a41c05e9a4c4c6b4eaec0ef7f9f95d8c896638a63b87e5ad94"
+    },
+    {
+      "arquivo": "CASA-04-R1-MOBILIADA.igz",
+      "bytes": 19586001,
+      "sha256": "84abbed5ec3bb505e2436328c3388b50b0fd476e0f9e91d252e334feffc1cd8f"
+    },
+    {
+      "arquivo": "CASA-04-R1.glb",
+      "bytes": 10248624,
+      "sha256": "e028c373269abd62bcaa18d45f44659ddadf8d5894cd1afc44d898619ec8ffbc"
+    },
+    {
+      "arquivo": "CASA04-OFFLINE.html",
+      "bytes": 27744821,
+      "sha256": "59fa0eb260dd21f01611220b2e1fdfbca61aa32ad005d69e6ab5cd265e38c691"
+    },
+    {
+      "arquivo": "CREDITOS-ACERVO-3D.md",
+      "bytes": 1672,
+      "sha256": "8da542286d822af5de18fc0169478b6bbe07abaa411fad6147e863086882e82c"
+    },
+    {
+      "arquivo": "FONTES-04-R1.zip",
+      "bytes": 132491,
+      "sha256": "59f5f5d7bb3b0b2f66fe89086bf00d55a0828132698739ad97dbd9c7acbf60c3"
+    },
+    {
+      "arquivo": "fotos/01-modelo3d.jpg",
+      "bytes": 125726,
+      "sha256": "c06740553233d65901cc2dea3e609fca268bab16aeafaad8759deba1ce0053e3"
+    },
+    {
+      "arquivo": "fotos/01-thumb.jpg",
+      "bytes": 46688,
+      "sha256": "0d70a625a57fcd985aa56e865814035cd7e11b670a5c7de5a90afdb6fff02d02"
+    },
+    {
+      "arquivo": "fotos/01.jpg",
+      "bytes": 277837,
+      "sha256": "b238b98e7f49b4cc61fd309083d46cf57d21bb3915c86392d94ead4585b831a9"
+    },
+    {
+      "arquivo": "fotos/02-modelo3d.jpg",
+      "bytes": 130172,
+      "sha256": "89d13a4b6b2e72f63856d14241871bbbd82d087e30f08605fa6470fb3855f371"
+    },
+    {
+      "arquivo": "fotos/02-thumb.jpg",
+      "bytes": 49772,
+      "sha256": "56a343072729ae503cfb7e48ba24dee09b2d98db9d800638cbdac30d5dcb5043"
+    },
+    {
+      "arquivo": "fotos/02.jpg",
+      "bytes": 277977,
+      "sha256": "edaeeb1ddf33bf04214c351cac1e54c4bcb48d97f04b281b82c03b37c4b1524b"
+    },
+    {
+      "arquivo": "FOTOS-PUBLICACAO-04.json",
+      "bytes": 722,
+      "sha256": "c4a604a3f8ee74774ea300bed57d12010ac44e3335c2f38a739ec46a62a16bd4"
+    },
+    {
+      "arquivo": "MEMORIAL-04-R1.md",
+      "bytes": 8180,
+      "sha256": "40b9b703294946903c8f25f2e116d2de14f439a5072e6dfc270f39f526a348f2"
+    },
+    {
+      "arquivo": "modelo-3d.html",
+      "bytes": 7060,
+      "sha256": "87550a5c8d64a2bba5180a49eef5123c2ecd8592b8a4ea1c4dc67418501b5b0b"
+    },
+    {
+      "arquivo": "NANOBANANA-R1-FACHADA-02.png",
+      "bytes": 1424816,
+      "sha256": "f5ea153b5e257d8c7cbdf2101910a9d87c54e8a3b9a50159135c3531543eef27"
+    },
+    {
+      "arquivo": "NANOBANANA-R1-LAZER.png",
+      "bytes": 1453356,
+      "sha256": "cf9fd13560b425266a4a5bb4cda65c6a14288eb656ab80978fe5e530bb427f7f"
+    },
+    {
+      "arquivo": "PASSAGEM-LATERAL-04-P1.json",
+      "bytes": 519,
+      "sha256": "812d12048c85c5c85d3be258f905bc8e09f45f6ccaed9810c40f40e2ad3022ac"
+    },
+    {
+      "arquivo": "QUADRO-AREAS-04-R1.json",
+      "bytes": 9885,
+      "sha256": "877d7ff31d735b049adca26a7ecfc5fe55409c63a4c54260fd21a548690749f5"
+    },
+    {
+      "arquivo": "REVISAO-04-R1.json",
+      "bytes": 7278,
+      "sha256": "bd1157cd16dc33fb1abbb2c2dee73b394afc4cc29ee218a91743930352dbb3c7"
+    },
+    {
+      "arquivo": "REVISAO-FOTOS-PUBLICACAO.md",
+      "bytes": 2572,
+      "sha256": "ff1a35c5e8b75328cbb04f0d79beff5d70ef015e973f5abc09e10843212079f3"
+    },
+    {
+      "arquivo": "REVISAO-FOTOS-R1.md",
+      "bytes": 3071,
+      "sha256": "d5a188e3fb9da8a1e79c741a2d364cb9cac609629f0a9f86791ce3da80a227d5"
+    }
+  ]
+}
